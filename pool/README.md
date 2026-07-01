@@ -9,9 +9,9 @@ The Groq pool provides **free transcription credits** to the community. Subvox h
 **How it works:**
 
 1. A user submits a video for translation
-2. The pipeline checks if the user has Groq pool access
-3. If yes, transcription uses the community Groq key (free for the user)
-4. If no, the user must provide their own API key
+The pipeline checks if the user has Groq pool access
+- If yes, transcription uses the community Groq key (free for the user)
+- If no, the user must have their own key or a connected wallet
 
 **Code:** `pool/groq/`
 

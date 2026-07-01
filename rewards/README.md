@@ -11,7 +11,35 @@ Subvox rewards contributors with **SUBTEST** tokens on Solana devnet.
 | Decimals | 6 |
 | Initial supply | 1,000,000 SUBTEST |
 
-## Reward scale
+## How to earn
+
+### 1. Share your Groq key
+
+Lend your Groq API credits to the community pool and earn SUBTEST tokens proportional to usage.
+
+**Requirements:** A valid Groq API key with remaining quota.
+**Reward rate:** Proportional to transcription minutes used.
+
+### 2. Share your cookies
+
+Some platforms (YouTube, etc.) require authentication via cookies to download videos. Share your encrypted cookies and earn rewards.
+
+**Requirements:** Valid cookies for the target platform.
+**Reward rate:** Per successful download using your cookies.
+
+### 3. Hold SUBTEST tokens
+
+Hold SUBTEST tokens to earn a share of platform revenue.
+
+| Tokens held | Revenue share |
+|------------|--------------|
+| 100+ SUBTEST | Basic tier |
+| 1,000+ SUBTEST | Premium tier (x2 multiplier) |
+| 10,000+ SUBTEST | Whale tier (x5 multiplier) |
+
+Revenue is distributed proportionally at regular intervals.
+
+### 4. Contribute code
 
 | Contribution | Difficulty | SUBTEST |
 |-------------|-----------|---------|
@@ -28,11 +56,9 @@ Subvox rewards contributors with **SUBTEST** tokens on Solana devnet.
 
 1. A contributor opens an Issue or PR
 2. The maintainer assigns a difficulty rating
-3. When the PR is merged, tokens are sent to the contributor's Solana wallet
-4. Tokens can be used to run translations or held as community participation
+3. When the PR is merged, tokens are credited
+4. Tokens appear in your connected wallet automatically
 
 ## Claiming rewards
 
-1. Connect your Solana wallet (Phantom, Backpack) on subvox.app
-2. Link your GitHub account in Settings
-3. After a merged PR, tokens appear in your wallet automatically
+Feature coming soon. Connect your Solana wallet and link your GitHub account on the web app.

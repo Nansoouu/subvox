@@ -8,9 +8,15 @@
 [![Status](https://img.shields.io/badge/status-alpha-orange?style=flat-square)](/#)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 
+<a href="docs/readmes/README.fr.md"><img src="https://img.shields.io/badge/Francais-🇫🇷-blue" alt="Francais"></a>
+<a href="docs/readmes/README.es.md"><img src="https://img.shields.io/badge/Espanol-🇪🇸-green" alt="Espanol"></a>
+<a href="docs/readmes/README.pt.md"><img src="https://img.shields.io/badge/Portugues-🇵🇹-brightgreen" alt="Portugues"></a>
+<a href="docs/readmes/README.de.md"><img src="https://img.shields.io/badge/Deutsch-🇩🇪-orange" alt="Deutsch"></a>
+<a href="docs/readmes/README.it.md"><img src="https://img.shields.io/badge/Italiano-🇮🇹-red" alt="Italiano"></a>
+
 ---
 
-**[Get started](#get-started) : [How it works](#how-the-pipeline-works) : [Earn](#earn) : [HOLD token](#subvox-tier-system) : [Community](#community)**
+**[Get started](#get-started) : [Why Subvox?](#why-subvox) : [How it works](#how-the-pipeline-works) : [Earn](#earn) : [Token & tiers](#subvox-token--tiers)**
 
 ---
 
@@ -22,13 +28,23 @@
 
 ---
 
-## What is Subvox?
+## Why Subvox?
 
-Subvox is an **open-source subtitle engine** for the community, by the community. Paste any video URL, pick a language, and get a subtitled video in minutes.
+Video translation affects **billions of people**. A Korean tutorial, a German conference, an Arabic lecture, a Spanish vlog. Language should never be a barrier.
 
-**1800+ platforms supported** via yt-dlp: X/Twitter, TikTok, YouTube, Instagram, Vimeo, Dailymotion, Facebook, and thousands more.
+**The problem:** Existing tools (Veed, Kapwing, Descript, Opus Clip) restrict you to a few minutes, limit your exports, and lock you into expensive subscriptions. They charge a fortune for what should be accessible.
 
-No subscription. No hidden fees. Transparent and decentralized.
+**The solution:** A decentralized community where everyone wins.
+
+| Who | What they get |
+|-----|---------------|
+| **Heavy users** | Translate unlimited videos at a fraction of competitor prices. No time limits. 21 languages. |
+| **Groq key holders** | Share keys you are not using and earn 75% of every translation that uses them. Passive income. |
+| **Token holders** | Stake 500K+ SUBVOX and earn daily rewards from 10% of all platform fees. |
+| **Bug fixers & contributors** | Report bugs, write code, translate languages. Earn SUBVOX that has real monetary value. |
+| **Everyone** | Transparent, auditable, on-chain. We certify that everyone gets paid and the system works. |
+
+No subscription. No hidden fees. No corporate agenda. Built by the community, for the community.
 
 ---
 
@@ -39,12 +55,12 @@ Every translation goes through 5 steps. Here is how the **community** powers eac
 ### 1. Download
 Your video URL is downloaded via yt-dlp. Community members can share encrypted cookies to unlock restricted platforms (YouTube, etc.).
 
-**How the community helps:** Share your browser cookies and earn SUBVOX each time they are used.
+**You earn:** Share your cookies and get rewarded each time they are used.
 
 ### 2. Transcribe
 Speech is transcribed to text via Groq Whisper. The **community Groq pool** provides free transcription credits.
 
-**How the community helps:** Share your Groq API key with the pool. 75% of the translation cost goes to the key provider.
+**You earn:** Share your Groq API key with the pool. 75% of the translation cost goes to the key provider.
 
 ### 3. Translate
 Subtitles are translated into the target language via DeepSeek (with local LLaMA fallback planned).
@@ -54,20 +70,6 @@ Subtitles are burned into the video via FFmpeg. GPU support for long videos is p
 
 ### 5. Deliver
 Your subtitled video is ready with downloadable SRT/VTT files.
-
----
-
-## Community economy
-
-Every translation generates SUBVOX tokens that are split automatically:
-
-| Share | Who gets it | What for |
-|-------|------------|----------|
-| **75%** | Groq key provider | The person who shared their Groq key for this translation |
-| **15%** | Platform | Hosting, development, operations |
-| **10%** | Holders pool | Distributed daily to all SUBVOX token holders |
-
-The distribution happens **on-chain** every 24 hours via a cron job. No manual intervention.
 
 ---
 
@@ -133,11 +135,13 @@ Hold SUBVOX tokens to earn a share of the **10% holders pool**, distributed dail
 | **Passion** | 500,000 SUBVOX | 1x weight | Unlimited duration, no watermark, SRT export |
 | **Builder** | 1,000,000 SUBVOX + Groq key | 2x weight | 2x rewards, +75% revenue on your Groq key |
 
-**How it works:** Every 24 hours, the holders pool (10% of all translation fees) is split proportionally. If you hold 10% of all staked SUBVOX, you get 10% of that day's pool.
+**How it works:** Every 24 hours, the holders pool is split proportionally. If you hold 10% of all weighted SUBVOX, you get 10% of that day's pool.
 
 ---
 
-## SUBVOX pricing
+## SUBVOX token & tiers
+
+### Pricing
 
 Translation costs are calculated by video duration. Prices are in SUBVOX, per language.
 
@@ -152,9 +156,7 @@ Translation costs are calculated by video duration. Prices are in SUBVOX, per la
 
 **Multi-language discount:** 20% off each additional language.
 
----
-
-## SUBVOX token
+### Token
 
 | Property | Value |
 |----------|-------|
@@ -163,12 +165,15 @@ Translation costs are calculated by video duration. Prices are in SUBVOX, per la
 | Token address | Coming soon |
 | Decimals | 6 |
 
-### Token utility
+### Revenue split per translation
 
-- **Earn rewards**: Holders receive 10% of all translation fees, distributed daily
-- **Pay for translations**: Use SUBVOX to run translations
-- **Tier access**: Hold 500K+ for Passion tier, 1M+ for Builder tier
-- **Governance**: Future voting power on pool allocation decisions
+| Share | Who gets it | What for |
+|-------|------------|----------|
+| **75%** | Groq key provider | The person who shared their Groq key for this translation |
+| **15%** | Platform | Hosting, development, operations |
+| **10%** | Holders pool | Distributed daily to all SUBVOX token holders |
+
+The distribution happens **automatically** every 24 hours via a cron job. No manual intervention.
 
 ### How to get SUBVOX
 
@@ -204,15 +209,6 @@ Subvox is built **for the community, by the community**. No VC, no corporate age
 ## Supported languages
 
 English, French, Spanish, Portuguese, German, Italian, Dutch, Polish, Russian, Arabic, Hindi, Chinese (Simplified), Japanese, Korean, Turkish, Vietnamese, Thai, Indonesian, Romanian, Hungarian, Ukrainian.
-
-Translations of this README:
-
-- [English](/README.md)
-- [Francais](docs/readmes/README.fr.md)
-- [Espanol](docs/readmes/README.es.md)
-- [Portugues](docs/readmes/README.pt.md)
-- [Deutsch](docs/readmes/README.de.md)
-- [Italiano](docs/readmes/README.it.md)
 
 ---
 

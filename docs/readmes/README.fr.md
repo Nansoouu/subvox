@@ -1,5 +1,14 @@
 # Subvox -- README Francais
 
+<a href="../README.md"><img src="https://img.shields.io/badge/English-🇬🇧-blue" alt="English"></a>
+<a href="README.fr.md"><img src="https://img.shields.io/badge/Francais-🇫🇷-blue" alt="Francais"></a>
+<a href="README.es.md"><img src="https://img.shields.io/badge/Espanol-🇪🇸-green" alt="Espanol"></a>
+<a href="README.pt.md"><img src="https://img.shields.io/badge/Portugues-🇵🇹-brightgreen" alt="Portugues"></a>
+<a href="README.de.md"><img src="https://img.shields.io/badge/Deutsch-🇩🇪-orange" alt="Deutsch"></a>
+<a href="README.it.md"><img src="https://img.shields.io/badge/Italiano-🇮🇹-red" alt="Italiano"></a>
+
+---
+
 Lisez le README principal en anglais pour la version complete. Voici les informations cles en francais.
 
 ## Qu'est-ce que Subvox ?
@@ -8,22 +17,32 @@ Subvox est un **moteur de sous-titrage open-source** pour la communaute. Collez 
 
 **Plus de 1800 plateformes supportees** via yt-dlp: X/Twitter, TikTok, YouTube, Instagram, Vimeo, Dailymotion, et des milliers d'autres.
 
+## Pourquoi Subvox ?
+
+La traduction video concerne **des milliards de personnes**. Un tutoriel coreen, une conference allemande, un cours arabe, un vlog espagnol. La langue ne devrait jamais etre une barriere.
+
+**Le probleme:** Les outils existants (Veed, Kapwing, Descript, Opus Clip) limitent la duree, les exports, et enferment dans des abonnements couteux.
+
+**La solution:** Une communaute decentralisee ou tout le monde gagne.
+
+| Qui | Ce qu'ils obtiennent |
+|-----|---------------------|
+| **Gros utilisateurs** | Traduisez des videos illimitees a prix reduit. 21 langues. |
+| **Detenteurs de cle Groq** | Partagez vos cles inutilisees et gagnez 75% de chaque traduction. |
+| **Holders de tokens** | Stakez 500K+ SUBVOX et gagnez des rewards quotidiens. |
+| **Contributeurs** | Signalez des bugs, ecrivez du code, traduisez. Gagnez des SUBVOX. |
+| **Tout le monde** | Systeme transparent et verifiable. Nous certifions que chacun est paye. |
+
 ## Comment la pipeline fonctionne
 
-Chaque traduction traverse 5 etapes. Voici comment la communaute intervient a chaque etape:
-
 ### 1. Download
-Telechargement via yt-dlp. Les membres de la communaute peuvent partager des cookies cryptes pour les plateformes restreintes.
-
-**Comment la communaute aide:** Partagez vos cookies et gagnez des SUBVOX a chaque utilisation.
+Telechargement via yt-dlp. Partagez vos cookies cryptes et gagnez des SUBVOX a chaque utilisation.
 
 ### 2. Transcribe
-Transcription via Groq Whisper. La **pool communautaire Groq** fournit des credits gratuits.
-
-**Comment la communaute aide:** Partagez votre cle Groq avec la pool. 75% du cout de traduction va au fournisseur de cle.
+Transcription via Groq Whisper. La **pool communautaire Groq** fournit des credits gratuits. Partagez votre cle et gagnez 75% du cout.
 
 ### 3. Translate
-Traduction des sous-titres via DeepSeek (fallback LLaMA local prevu).
+Traduction des sous-titres via DeepSeek.
 
 ### 4. Burn
 Incrustation des sous-titres dans la video via FFmpeg.
@@ -35,11 +54,11 @@ Votre video sous-titree est prete, avec fichiers SRT/VTT telechargeables.
 
 Chaque traduction genere des SUBVOX repartis automatiquement:
 
-| Part | Qui recoit | Pourquoi |
-|------|-----------|----------|
-| **75%** | Fournisseur de cle Groq | La personne qui a partage sa cle pour cette traduction |
-| **15%** | Plateforme | Hebergement, developpement, operations |
-| **10%** | Pool des holders | Distribue quotidiennement a tous les detenteurs de SUBVOX |
+| Part | Qui recoit |
+|------|-----------|
+| **75%** | Fournisseur de cle Groq |
+| **15%** | Plateforme (hebergement, dev, ops) |
+| **10%** | Pool des holders (distribue quotidiennement) |
 
 ## Tarifs SUBVOX
 
@@ -56,11 +75,11 @@ Chaque traduction genere des SUBVOX repartis automatiquement:
 
 ## Comment gagner
 
-**1. Partagez votre cle Groq** -- Ajoutez votre cle a la pool communautaire et gagnez 75% de chaque traduction qui utilise votre cle.
+**1. Partagez votre cle Groq** -- Gagnez 75% de chaque traduction qui utilise votre cle.
 
-**2. Partagez vos cookies** -- Debloquez les plateformes restreintes et gagnez des SUBVOX a chaque utilisation.
+**2. Partagez vos cookies** -- Debloquez les plateformes restreintes et gagnez des SUBVOX.
 
-**3. Detenez des SUBVOX** -- Les holders recoivent 10% des frais de traduction, distribues quotidiennement.
+**3. Detenez des SUBVOX** -- Les holders recoivent 10% des frais, distribues quotidiennement.
 
 ## Tiers
 
@@ -69,15 +88,6 @@ Chaque traduction genere des SUBVOX repartis automatiquement:
 | **Decouverte** | 0 SUBVOX | Pas de rewards | Gratuit < 2 min, watermark, 3/jour |
 | **Passion** | 500,000 SUBVOX | 1x | Duree illimitee, sans watermark |
 | **Builder** | 1,000,000 SUBVOX + cle Groq | 2x | Rewards x2, +75% sur votre cle Groq |
-
-## Token SUBVOX
-
-| Propriete | Valeur |
-|-----------|--------|
-| Nom | SUBVOX |
-| Reseau | Solana devnet |
-| Adresse du token | A venir |
-| Decimales | 6 |
 
 ## Liens officiels
 
@@ -89,5 +99,5 @@ Chaque traduction genere des SUBVOX repartis automatiquement:
 | **GitHub** | [github.com/Nansoouu/subvox](https://github.com/Nansoouu/subvox) |
 
 > **POINT DE REFERENCE OFFICIEL**
-> Ce depot GitHub est la **seule source officielle** de Subvox. Toutes les adresses officielles de portefeuilles, contrats de tokens et liens sont listes ici.
+> Ce depot GitHub est la **seule source officielle** de Subvox.
 > **Ne faites jamais confiance a des adresses Subvox trouvees ailleurs.**

@@ -5,30 +5,33 @@
   </picture>
 </p>
 
-<h3 align="center">The open-source video subtitle studio</h3>
+<h3 align="center">
+  The open-source video subtitle studio<br>
+  <small>Translate any video into 21 languages, in minutes.</small>
+</h3>
 
 <p align="center">
-  Paste any video URL &rarr; get subtitled video in 21 languages, in minutes.
-  Community-driven, transparent, decentralized.
+  <strong>
+    <a href="https://subvox.app">subvox.app</a> &middot;
+    <a href="#get-started">Get started</a> &middot;
+    <a href="#official-links">Official links</a> &middot;
+    <a href="#community">Community</a> &middot;
+    <a href="#token">$SUBTEST token</a>
+  </strong>
 </p>
 
 <p align="center">
-  <a href="#how-it-works">How it works</a> &middot;
-  <a href="#try-it">Try it</a> &middot;
-  <a href="#community-pools">Community pools</a> &middot;
-  <a href="#contributing">Contributing</a> &middot;
-  <a href="#roadmap">Roadmap</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Nansoouu/subvox-pipeline">
-    <img src="https://img.shields.io/badge/code-subvox--pipeline-blue?style=flat-square" alt="Pipeline">
+  <a href="https://x.com/subvoxapp">
+    <img src="https://img.shields.io/badge/X-@subvoxapp-000000?style=flat-square&logo=x" alt="X/Twitter">
   </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
+  <a href="(discord link)">
+    <img src="https://img.shields.io/badge/Discord-subvox-5865F2?style=flat-square&logo=discord" alt="Discord">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/status-alpha-orange?style=flat-square" alt="Status">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
   </a>
 </p>
 
@@ -36,132 +39,124 @@
 
 ## What is Subvox?
 
-Subvox is an **open-source video subtitle engine** that translates any video into 21 languages.
+Subvox is an **open-source subtitle engine** for the community, by the community. Paste any video URL, pick a language, and get a subtitled video in minutes.
 
-**How it works in 30 seconds:**
+No subscription. No hidden fees. Transparent and decentralized.
+
+### Supported platforms
 
 ```
-1. Paste a video URL (X/Twitter, TikTok, YouTube, Instagram, Vimeo...)
-2. Pick a target language (21 languages supported)
-3. Wait 1-10 minutes
-4. Get a video with burned-in subtitles + downloadable SRT/VTT
+X/Twitter  TikTok  YouTube  Instagram  Vimeo  Dailymotion  and any public video URL
 ```
 
-**The engine (subvox-pipeline):**
-- Downloads the video via yt-dlp
-- Transcribes speech via Groq Whisper (with local fallback planned)
-- Translates subtitles via DeepSeek/LLaMA
-- Burns subtitles into the video via FFmpeg libass
-- Uploads to Supabase storage
+### How it works
 
-The pipeline engine code is **fully open-source** at [Nansoouu/subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline).
+1. **Paste a URL** — from X, TikTok, YouTube, Instagram, or anywhere
+2. **Pick a language** — 21 languages supported
+3. **Wait 1-10 minutes** — the pipeline handles everything
+4. **Get your video** — with burned-in subtitles + downloadable SRT/VTT
 
 ---
 
-## Try it
+## Get started
 
-| Platform | URL |
-|----------|-----|
+| Method | URL |
+|--------|-----|
 | **Web app** | [subvox.app](https://subvox.app) |
-| **API** | `https://api.subvox.app/docs` |
-| **CLI** | Coming soon (`pip install subvox`) |
+| **API (Swagger)** | `https://api.subvox.app/docs` |
+| **CLI** | Coming soon — `pip install subvox` |
 
 ---
 
-## Community pools
+## Official links
 
-Subvox is built around a **transparent, community-owned economy**.
+| Platform | Link |
+|----------|------|
+| **Website** | [subvox.app](https://subvox.app) |
+| **X / Twitter** | [@subvoxapp](https://x.com/subvoxapp) |
+| **Discord** | [Join the server](discord-link) (coming soon) |
+| **GitHub** | [github.com/Nansoouu](https://github.com/Nansoouu) |
+| **Email** | (contact email) |
 
-| Pool | What it does | How it's funded |
-|------|-------------|-----------------|
-| **Groq pool** | Free transcription credits for the community | Top-ups from revenue |
-| **GPU pool** (planned) | GPU compute for long videos | Community contributions |
-| **Rewards pool** | Token rewards for contributors | Percentage of platform fees |
+### Official Solana wallets
 
-All pool logic is **public** and auditable in this repo's `pool/` directory.
+| Network | Address | Purpose |
+|---------|---------|---------|
+| **Devnet** | `(devnet wallet address)` | SUBTEST token, test transactions |
+| **Mainnet** | `(mainnet wallet address)` | Future SUBVOX token, platform revenue |
+
+> These are the **only official Subvox wallets**. We will never ask you to send funds to any other address.
+
+### SUBTEST token
+
+| Property | Value |
+|----------|-------|
+| Token name | SUBTEST |
+| Network | Solana devnet |
+| Token address | `(token mint address)` |
+| Decimals | 6 |
+
+SUBTEST is a devnet utility token used to power community rewards and test transactions. It has no monetary value.
+
+---
+
+## Community
+
+Subvox is built **for the community, by the community**. No VC, no corporate agenda.
+
+### How to participate
+
+| Activity | Where |
+|----------|-------|
+| **Report a bug** | [subvox-pipeline issues](https://github.com/Nansoouu/subvox-pipeline/issues) |
+| **Suggest a feature** | Same repo, label `enhancement` |
+| **Submit code** | Fork, branch, PR — see `COMMUNITY.md` |
+| **Translate** | Help us add more languages |
+| **Donate GPU** | Join the Discord |
+
+### Token rewards
+
+Contributors earn **SUBTEST** tokens for merged PRs, bug reports, and community work.
+
+| Contribution | SUBTEST |
+|-------------|---------|
+| Add a language | 10 |
+| Write tests | 10 |
+| Fix a bug | 15 |
+| Minor feature | 50 |
+| Cache implementation | 75 |
+| YouTube full support | 200 |
+| Plugin system | 500 |
+
+See [rewards/](rewards/) for full tokenomics.
+
+---
+
+## Architecture (technical)
+
+For developers who want to dive into the code:
+
+```
+Frontend (Next.js)  →  Pipeline API (FastAPI)  →  Celery Worker
+                                                     │
+                                                     ├── Download (yt-dlp)
+                                                     ├── Transcribe (Groq Whisper)
+                                                     ├── Translate (DeepSeek + LLaMA fallback)
+                                                     ├── Burn subtitles (FFmpeg)
+                                                     └── Upload (Supabase)
+```
+
+| Repository | Visibility | Purpose |
+|-----------|-----------|---------|
+| [subvox](https://github.com/Nansoouu/subvox) | Public | **This repo** — community hub, docs, pools |
+| [subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline) | Public | Pipeline engine (open-source) |
+| subvox-economy | Private | Auth, billing, credentials |
 
 ---
 
 ## Supported languages
 
-| Language | Code |
-|----------|------|
-| English | en |
-| French | fr |
-| Spanish | es |
-| Portuguese | pt |
-| German | de |
-| Italian | it |
-| Dutch | nl |
-| Polish | pl |
-| Russian | ru |
-| Arabic | ar |
-| Hindi | hi |
-| Chinese (Simplified) | zh |
-| Japanese | ja |
-| Korean | ko |
-| Turkish | tr |
-| Vietnamese | vi |
-| Thai | th |
-| Indonesian | id |
-| Romanian | ro |
-| Hungarian | hu |
-| Ukrainian | uk |
-
----
-
-## Contributing
-
-Subvox is 100% community-driven. No VC, no corporate agenda.
-
-**Ways to contribute:**
-
-| Type | Where | Ideal for |
-|------|-------|-----------|
-| **Code** | [subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline) | Developers |
-| **Translations** | [subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline) | Multilingual folks |
-| **Design** | [subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline) | Creatives |
-| **Documentation** | This repo (`docs/`) | Writers |
-| **GPU compute** | Reach out on Discord | Infrastructure helpers |
-
-**Contributors get token rewards** (SUBTEST on Solana devnet). See `rewards/` for details.
-
----
-
-## Architecture
-
-```
-User ──▶ Frontend (Next.js) ──▶ Pipeline API ──▶ Celery Worker
-                                        │
-                                        ├── Download (yt-dlp)
-                                        ├── Transcribe (Groq Whisper)
-                                        ├── Translate (DeepSeek/LLaMA)
-                                        ├── Burn subtitles (FFmpeg)
-                                        └── Upload (Supabase)
-
-Privacy layer ▶ Economy API (auth, billing, credentials)
-```
-
-- **Pipeline** — [Nansoouu/subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline) (open-source)
-- **Economy** — Private (auth, billing, credentials)
-- **Frontend** — Private (Next.js UI)
-- **Community** — **This repo** (documentation, pools, governance)
-
----
-
-## Roadmap
-
-See [ROADMAP.md](docs/ROADMAP.md) for the full picture.
-
-**Current focus:**
-- [x] Pipeline works end-to-end (local)
-- [x] Community Groq pool active
-- [x] 21 language support
-- [ ] Automated tests
-- [ ] GPU support for long videos
-- [ ] YouTube cookies/proxy support
-- [ ] Translation without API key (local LLaMA)
-- [ ] Transcription cache (SHA256 + whisper.cpp)
+English, French, Spanish, Portuguese, German, Italian, Dutch, Polish, Russian, Arabic, Hindi, Chinese (Simplified), Japanese, Korean, Turkish, Vietnamese, Thai, Indonesian, Romanian, Hungarian, Ukrainian.
 
 ---
 
@@ -169,4 +164,4 @@ See [ROADMAP.md](docs/ROADMAP.md) for the full picture.
 
 MIT — see [LICENSE](LICENSE).
 
-Built with love by [Nansou](https://github.com/Nansoouu) and contributors.
+Built with love by [Nansou](https://github.com/Nansoouu) and the Subvox community.

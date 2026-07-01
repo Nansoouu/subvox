@@ -13,6 +13,20 @@
 <a href="docs/readmes/README.pt.md"><img src="https://img.shields.io/badge/Portugues-🇵🇹-brightgreen" alt="Portugues"></a>
 <a href="docs/readmes/README.de.md"><img src="https://img.shields.io/badge/Deutsch-🇩🇪-orange" alt="Deutsch"></a>
 <a href="docs/readmes/README.it.md"><img src="https://img.shields.io/badge/Italiano-🇮🇹-red" alt="Italiano"></a>
+<a href="docs/readmes/README.nl.md"><img src="https://img.shields.io/badge/Nederlands-🇳🇱-brightblue" alt="Nederlands"></a>
+<a href="docs/readmes/README.pl.md"><img src="https://img.shields.io/badge/Polski-🇵🇱-purple" alt="Polski"></a>
+<a href="docs/readmes/README.ru.md"><img src="https://img.shields.io/badge/Russian-🇷🇺-purple" alt="Russian"></a>
+<a href="docs/readmes/README.uk.md"><img src="https://img.shields.io/badge/Українська-🇺🇦-yellow" alt="Українська"></a>
+<a href="docs/readmes/README.ar.md"><img src="https://img.shields.io/badge/العربية-🇸🇦-lightgrey" alt="العربية"></a>
+<a href="docs/readmes/README.hi.md"><img src="https://img.shields.io/badge/हिन्दी-🇮🇳-orange" alt="हिन्दी"></a>
+<a href="docs/readmes/README.fa.md"><img src="https://img.shields.io/badge/فارسی-🇮🇷-green" alt="فارسی"></a>
+<a href="docs/readmes/README.he.md"><img src="https://img.shields.io/badge/עברית-🇮🇱-blue" alt="עברית"></a>
+<a href="docs/readmes/README.zh.md"><img src="https://img.shields.io/badge/中文-🇨🇳-critical" alt="中文"></a>
+<a href="docs/readmes/README.ja.md"><img src="https://img.shields.io/badge/日本語-🇯🇵-blueviolet" alt="日本語"></a>
+<a href="docs/readmes/README.ko.md"><img src="https://img.shields.io/badge/한국어-🇰🇷-brightblue" alt="한국어"></a>
+<a href="docs/readmes/README.tr.md"><img src="https://img.shields.io/badge/Türkçe-🇹🇷-red" alt="Türkçe"></a>
+<a href="docs/readmes/README.vi.md"><img src="https://img.shields.io/badge/Tiếng_Việt-🇻🇳-brightgreen" alt="Tiếng Việt"></a>
+<a href="docs/readmes/README.id.md"><img src="https://img.shields.io/badge/Bahasa_Indonesia-🇮🇩-red" alt="Bahasa Indonesia"></a>
 
 ---
 
@@ -208,7 +222,28 @@ Subvox is built **for the community, by the community**. No VC, no corporate age
 
 ## Supported languages
 
-English, French, Spanish, Portuguese, German, Italian, Dutch, Polish, Russian, Arabic, Hindi, Chinese (Simplified), Japanese, Korean, Turkish, Vietnamese, Thai, Indonesian, Romanian, Hungarian, Ukrainian.
+| # | Language | README |
+|---|----------|--------|
+| 1 | English | [README.md](/) |
+| 2 | Francais | [README.fr.md](docs/readmes/README.fr.md) |
+| 3 | Espanol | [README.es.md](docs/readmes/README.es.md) |
+| 4 | Portugues | [README.pt.md](docs/readmes/README.pt.md) |
+| 5 | Deutsch | [README.de.md](docs/readmes/README.de.md) |
+| 6 | Italiano | [README.it.md](docs/readmes/README.it.md) |
+| 7 | Nederlands | [README.nl.md](docs/readmes/README.nl.md) |
+| 8 | Polski | [README.pl.md](docs/readmes/README.pl.md) |
+| 9 | Russian | [README.ru.md](docs/readmes/README.ru.md) |
+| 10 | Ukrainian | [README.uk.md](docs/readmes/README.uk.md) |
+| 11 | Arabic | [README.ar.md](docs/readmes/README.ar.md) |
+| 12 | Hindi | [README.hi.md](docs/readmes/README.hi.md) |
+| 13 | Persian | [README.fa.md](docs/readmes/README.fa.md) |
+| 14 | Hebrew | [README.he.md](docs/readmes/README.he.md) |
+| 15 | Chinese (Simplified) | [README.zh.md](docs/readmes/README.zh.md) |
+| 16 | Japanese | [README.ja.md](docs/readmes/README.ja.md) |
+| 17 | Korean | [README.ko.md](docs/readmes/README.ko.md) |
+| 18 | Turkish | [README.tr.md](docs/readmes/README.tr.md) |
+| 19 | Vietnamese | [README.vi.md](docs/readmes/README.vi.md) |
+| 20 | Bahasa Indonesia | [README.id.md](docs/readmes/README.id.md) |
 
 ---
 

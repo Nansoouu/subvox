@@ -1,4 +1,4 @@
-# Subvox -- Italiano README
+# Subvox -- README فارسی
 
 <a href="../README.md"><img src="https://img.shields.io/badge/English-🇬🇧-blue" alt="English"></a>
 <a href="README.fr.md"><img src="https://img.shields.io/badge/Francais-🇫🇷-blue" alt="Francais"></a>
@@ -23,31 +23,16 @@
 
 ---
 
-Leggi il README principale in inglese per la versione completa. Ecco le informazioni chiave in italiano.
+برای نسخه کامل، README اصلی انگلیسی را بخوانید. اطلاعات کلیدی به فارسی در زیر آمده است.
 
-## Cos'e Subvox?
+Read the main [English README](../README.md) for the full project documentation including how the pipeline works, community economy, pricing tiers, and earning opportunities.
 
-Subvox e un **motore di sottotitoli open-source** per la comunita. Incolla un URL video, scegli una lingua e ottieni un video sottotitolato in pochi minuti.
-
-**Oltre 1800 piattaforme supportate** via yt-dlp.
-
-## Perche Subvox?
-
-La traduzione video riguarda **miliardi di persone**. Un tutorial coreano, una conferenza tedesca, una lezione araba, un vlog spagnolo. La lingua non dovrebbe mai essere una barriera.
-
-**Il problema:** Gli strumenti esistenti (Veed, Kapwing, Descript, Opus Clip) limitano il tempo, le esportazioni e ti chiudono in abbonamenti costosi.
-
-**La soluzione:** Una comunita decentralizzata dove tutti vincono.
-
-| Chi | Cosa ottengono |
-|-----|----------------|
-| **Utenti pesanti** | Traduzione illimitata a basso costo. 21 lingue. |
-| **Proprietari di chiavi Groq** | Condividete chiavi non usate, guadagnate 75% per traduzione. |
-| **Detentori di token** | Tenete 500K+ SUBVOX, guadagnate ricompense giornaliere. |
-| **Contributori** | Segnalate bug, scrivete codice, traducete. Guadagnate SUBVOX. |
-| **Tutti** | Sistema trasparente e verificabile. Garantiamo che tutti vengono pagati. |
-
-Leggi il [README principale](../README.md) per la documentazione completa.
+Key links:
+- [Why Subvox?](../README.md#why-subvox)
+- [How the pipeline works](../README.md#how-the-pipeline-works)
+- [Community economy](../README.md#community-economy)
+- [Earn](../README.md#earn)
+- [SUBVOX token & tiers](../README.md#subvox-token--tiers)
 
 ## Official links
 
@@ -56,8 +41,8 @@ Leggi il [README principale](../README.md) per la documentazione completa.
 | **Website** | Coming soon |
 | **X / Twitter** | Coming soon |
 | **Discord** | Coming soon |
-| **GitHub** | [github.com/Nansoouu/subvox](https://github.com/Nansoouu/subvox) |
+| **GitHub** | [github.com/Nansoouu/subvox](https://github.com/Nansoouu/subvox)
 
-> **PUNTO DI RIFERIMENTO UFFICIALE**
-> Questo repository e l'**unica fonte ufficiale** di Subvox.
-> **Non fidarti mai di indirizzi Subvox trovati altrove.**
+> **OFFICIAL POINT OF REFERENCE**
+> This repository is the **only official source** for Subvox.
+> **Never trust Subvox addresses found anywhere else.**

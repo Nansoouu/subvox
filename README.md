@@ -65,6 +65,41 @@
 
 ---
 
+## Competitive Landscape
+
+| # | Competitor | Est. Value | Revenue | Users | Target |
+|---|-----------|-----------|---------|-------|--------|
+| 1 | **CapCut (ByteDance)** | $225B | N/A | 323M MAU | Casual creators |
+| 2 | **TransPerfect** | ~$3–5B | $1.32B | 6K+ enterprises | Global enterprises |
+| 3 | **Iyuno** | ~$1.2B | $395M | Studios | Cinema & TV |
+| 4 | **Lionbridge** | ~$537M | $546M | Fortune 500 | Enterprise LSP |
+| 5 | **OpusClip** | $215M | ~$30M | 10M+ users | Podcasters, marketers |
+
+### By AI Innovation
+| # | Company | Key Tech | Backing |
+|---|---------|----------|---------|
+| 1 | **Verbit** | Proprietary ASR (legal, edu) | $250M+, peak $2B |
+| 2 | **OpusClip** | Virality AI, hook detection | $50M (SoftBank) |
+| 3 | **Sonix.ai** | Pure AI ($10/h) | $5.4M |
+| 4 | **Happy Scribe** | AI+human, 60 langs, $25M ARR | Bootstrapped |
+| 5 | **Flixier** | Cloud editor + AI dubbing | $120K seed |
+
+### Target Markets
+| Segment | Key Players | Entry Price |
+|---------|------------|-------------|
+| **Casual creators** | CapCut, OpusClip | Free–$15/mo |
+| **Video editors** | Flixier, Maestra | $10–$30/mo |
+| **Enterprise** | TransPerfect, Lionbridge, Verbit | Custom quotes |
+| **Media & studios** | Iyuno, 3Play Media | Custom quotes |
+| **Accessibility** | 3Play Media, Subly | $0.25–$2/min |
+| **Localization** | Happy Scribe, Checksub | $17–$59/mo |
+
+**We're the only open-source player with a community economy** — 60% to providers, 20% to holders. And the most affordable: ~$0.06/h via Groq pool vs $0.15–$2/min for competitors.
+
+> 📊 [Full competitive analysis →](docs/competition/ANALYSIS.md)
+
+---
+
 ## Why Subvox?
 
 Video translation affects **billions of people**. A Korean tutorial, a German conference, an Arabic lecture, a Spanish vlog. Language should never be a barrier.

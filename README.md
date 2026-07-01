@@ -34,6 +34,15 @@
 
 ---
 
+<div align="center">
+
+[![Subvox](https://img.shields.io/badge/Subvox%20Ecosystem-00A86B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nansoouu/subvox)
+[![Pipeline](https://img.shields.io/badge/Pipeline%20Engine-00A86B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nansoouu/subvox-pipeline)
+
+</div>
+
+---
+
 </div>
 
 > **OFFICIAL POINT OF REFERENCE**

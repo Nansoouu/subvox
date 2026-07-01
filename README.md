@@ -51,6 +51,18 @@
 
 ---
 
+## Screenshots
+
+<div align="center">
+  <img src="public/screenshots/translate_mode_subvox.png" alt="Translate mode" width="280" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1)">
+  <img src="public/screenshots/download_subvox.png" alt="Download mode" width="280" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1)">
+  <img src="public/screenshots/reward_subvox.png" alt="Rewards page" width="280" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1)">
+  <br/>
+  <em>Translate · Download · Earn — all in one platform</em>
+</div>
+
+---
+
 ## Why Subvox?
 
 Video translation affects **billions of people**. A Korean tutorial, a German conference, an Arabic lecture, a Spanish vlog. Language should never be a barrier.

@@ -30,7 +30,7 @@
 
 ---
 
-**[Get started](#get-started) : [Why Subvox?](#why-subvox) : [How it works](#how-the-pipeline-works) : [Earn](#earn) : [Token & tiers](#subvox-token--tiers)**
+**[Get started](#get-started) · [Why Subvox?](#why-subvox) · [How it works](#how-the-pipeline-works) · [Earn](#earn) · [Token & tiers](#subvox-token--tiers)**
 
 ---
 

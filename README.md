@@ -64,7 +64,9 @@ No subscription. No hidden fees. No corporate agenda. Built by the community, fo
 
 ## How the pipeline works
 
-Every translation goes through 5 steps. Here is how the **community** powers each one:
+Every translation goes through 5 steps. Here is how the **community** powers each one.
+
+> 💡 **Want to see how it works under the hood?** The pipeline is fully open-source at [github.com/Nansoouu/subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline). You can run it yourself, inspect every line of code, and contribute.
 
 ### 1. Download
 Your video URL is downloaded via yt-dlp. Community members can share encrypted cookies to unlock restricted platforms (YouTube, etc.).
@@ -266,6 +268,12 @@ Frontend (Next.js)  -->  Pipeline API (FastAPI)  -->  Celery Worker
 |-----------|-----------|---------|
 | [subvox](https://github.com/Nansoouu/subvox) | Public | **This repo** -- community hub, docs, pools |
 | [subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline) | Public | Pipeline engine (open-source) |
+
+---
+
+## ⭐ Support the project
+
+If you find this useful, **give the repo a star** ⭐. It takes one click and it genuinely helps — it tells me this project matters to real people, which keeps me building.
 
 ---
 

@@ -22,11 +22,11 @@
 ## Screenshots
 
 <div align="center">
-  <img src="public/screenshots/download_subvox.png" alt="Download mode" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/download_subvox.png" alt="Download mode" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
   <br/>
-  <img src="public/screenshots/translate_mode_subvox.png" alt="Translate mode" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/translate_mode_subvox.png" alt="Translate mode" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
   <br/>
-  <img src="public/screenshots/reward_subvox.png" alt="Rewards page" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/reward_subvox.png" alt="Rewards page" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto">
   <br/>
   <em>Download · Translate · Earn — all in one platform</em>
 </div>
@@ -53,11 +53,11 @@
 ## 스크린샷
 
 <div align="center">
-  <img src="public/screenshots/download_subvox.png" alt="다운로드 모드" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/download_subvox.png" alt="다운로드 모드" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
   <br/>
-  <img src="public/screenshots/translate_mode_subvox.png" alt="번역 모드" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/translate_mode_subvox.png" alt="번역 모드" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
   <br/>
-  <img src="public/screenshots/reward_subvox.png" alt="보상 페이지" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/reward_subvox.png" alt="보상 페이지" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto">
   <br/>
   <em>다운로드 · 번역 · 수익 창출 — 하나의 플랫폼에서 모두 가능</em>
 </div>

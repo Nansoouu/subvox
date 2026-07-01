@@ -22,11 +22,11 @@
 ## Screenshots
 
 <div align="center">
-  <img src="public/screenshots/download_subvox.png" alt="Download mode" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/download_subvox.png" alt="Download mode" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
   <br/>
-  <img src="public/screenshots/translate_mode_subvox.png" alt="Translate mode" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/translate_mode_subvox.png" alt="Translate mode" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
   <br/>
-  <img src="public/screenshots/reward_subvox.png" alt="Rewards page" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/reward_subvox.png" alt="Rewards page" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto">
   <br/>
   <em>Download · Translate · Earn — all in one platform</em>
 </div>
@@ -45,22 +45,57 @@
 </div>
 
 > **OFFIZIELLER BEZUGSPUNKT**
-> Dieses Repository ist die **einzige offizielle Quelle** für Subvox. Alle offiziellen Wallet-Adressen, Token-Verträge und Links sind hier und nirgendwo anders aufgeführt.
-> **Vertrauen Sie niemals Subvox-Adressen, die Sie woanders finden.** Wenn es nicht in diesem Repo ist, handelt es sich um einen Betrug.
+> Dieses Repository ist die **einzige offizielle Quelle** für Subvox. Alle offiziellen Wallet-Adressen, Token-Verträge und Links sind hier und nirgendwo sonst aufgeführt.
+> **Vertrauen Sie niemals Subvox-Adressen, die Sie woanders finden.** Wenn sie nicht in diesem Repository stehen, handelt es sich um Betrug.
 
 ---
 
 ## Screenshots
 
 <div align="center">
-  <img src="public/screenshots/download_subvox.png" alt="Download-Modus" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/download_subvox.png" alt="Download-Modus" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
   <br/>
-  <img src="public/screenshots/translate_mode_subvox.png" alt="Übersetzungsmodus" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/translate_mode_subvox.png" alt="Übersetzungsmodus" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
   <br/>
-  <img src="public/screenshots/reward_subvox.png" alt="Belohnungsseite" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/reward_subvox.png" alt="Belohnungsseite" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto">
   <br/>
   <em>Herunterladen · Übersetzen · Verdienen – alles auf einer Plattform</em>
 </div>
+
+---
+
+## Wettbewerbsumfeld
+
+| # | Wettbewerber | Geschätzter Wert | Umsatz | Nutzer | Zielgruppe |
+|---|-----------|-----------|---------|-------|--------|
+| 1 | **CapCut (ByteDance)** | 225 Mrd. $ | N/A | 323 Mio. MAU | Gelegenheitsersteller |
+| 2 | **TransPerfect** | ~3–5 Mrd. $ | 1,32 Mrd. $ | 6.000+ Unternehmen | Globale Unternehmen |
+| 3 | **Iyuno** | ~1,2 Mrd. $ | 395 Mio. $ | Studios | Kino & Fernsehen |
+| 4 | **Lionbridge** | ~537 Mio. $ | 546 Mio. $ | Fortune 500 | Unternehmens-LSP |
+| 5 | **OpusClip** | 215 Mio. $ | ~30 Mio. $ | 10 Mio.+ Nutzer | Podcaster, Vermarkter |
+
+### Nach KI-Innovation
+| # | Unternehmen | Schlüsseltechnologie | Unterstützung |
+|---|---------|----------|---------|
+| 1 | **Verbit** | Proprietäre ASR (Recht, Bildung) | 250 Mio. $+, Spitze 2 Mrd. $ |
+| 2 | **OpusClip** | Viralitäts-KI, Hook-Erkennung | 50 Mio. $ (SoftBank) |
+| 3 | **Sonix.ai** | Reine KI (10 $/h) | 5,4 Mio. $ |
+| 4 | **Happy Scribe** | KI+Mensch, 60 Sprachen, 25 Mio. $ ARR | Bootstrapped |
+| 5 | **Flixier** | Cloud-Editor + KI-Synchronisation | 120.000 $ Seed |
+
+### Zielmärkte
+| Segment | Hauptakteure | Einstiegspreis |
+|---------|------------|-------------|
+| **Gelegenheitsersteller** | CapCut, OpusClip | Kostenlos–15 $/Monat |
+| **Videoeditoren** | Flixier, Maestra | 10–30 $/Monat |
+| **Unternehmen** | TransPerfect, Lionbridge, Verbit | Individuelle Angebote |
+| **Medien & Studios** | Iyuno, 3Play Media | Individuelle Angebote |
+| **Barrierefreiheit** | 3Play Media, Subly | 0,25–2 $/Minute |
+| **Lokalisierung** | Happy Scribe, Checksub | 17–59 $/Monat |
+
+**Wir sind der einzige Open-Source-Akteur mit einer Community-Ökonomie** – 60 % für Anbieter, 20 % für Inhaber. Und der günstigste: ~0,06 $/h über den Groq-Pool gegenüber 0,15–2 $/Minute bei Wettbewerbern.
+
+> 📊 [Vollständige Wettbewerbsanalyse →](docs/competition/ANALYSIS.md)
 
 ---
 
@@ -68,19 +103,19 @@
 
 Videoübersetzung betrifft **Milliarden von Menschen**. Ein koreanisches Tutorial, eine deutsche Konferenz, ein arabischer Vortrag, ein spanischer Vlog. Sprache sollte niemals eine Barriere sein.
 
-**Das Problem:** Bestehende Tools (Veed, Kapwing, Descript, Opus Clip) beschränken Sie auf wenige Minuten, limitieren Ihre Exporte und zwingen Sie in teure Abonnements. Sie verlangen ein Vermögen für etwas, das zugänglich sein sollte.
+**Das Problem:** Bestehende Tools (Veed, Kapwing, Descript, Opus Clip) beschränken Sie auf wenige Minuten, limitieren Ihre Exporte und sperren Sie in teure Abonnements ein. Sie verlangen ein Vermögen für etwas, das zugänglich sein sollte.
 
-**Die Lösung:** Eine dezentrale Community, in der alle gewinnen.
+**Die Lösung:** Eine dezentrale Community, bei der alle gewinnen.
 
 | Wer | Was sie bekommen |
 |-----|---------------|
-| **Vielnutzer** | Übersetzen Sie unbegrenzt Videos zu einem Bruchteil der Konkurrenzpreise. Keine Zeitlimits. 21 Sprachen. |
-| **Groq-Key-Inhaber** | Teilen Sie ungenutzte Keys und verdienen Sie einen Anteil am 60%-Anbieter-Pool. Passives Einkommen. |
-| **Token-Inhaber** | Staken Sie 500K+ SUBVOX und verdienen Sie tägliche Belohnungen aus dem 20%-Inhaber-Pool. |
+| **Vielnutzer** | Übersetzen Sie unbegrenzt Videos zu einem Bruchteil der Wettbewerbspreise. Keine Zeitlimits. 21 Sprachen. |
+| **Groq-Schlüsselinhaber** | Teilen Sie Schlüssel, die Sie nicht nutzen, und verdienen Sie einen Anteil am 60 %-Anbieterpool. Passives Einkommen. |
+| **Token-Inhaber** | Setzen Sie 500.000+ SUBVOX und verdienen Sie tägliche Belohnungen aus dem 20 %-Inhaberpool. |
 | **Fehlerbeheber & Mitwirkende** | Melden Sie Fehler, schreiben Sie Code, übersetzen Sie Sprachen. Verdienen Sie SUBVOX mit echtem Geldwert. |
-| **Jeder** | Transparent, prüfbar, on-chain. Wir garantieren, dass jeder bezahlt wird und das System funktioniert. |
+| **Alle** | Transparent, prüfbar, on-chain. Wir garantieren, dass alle bezahlt werden und das System funktioniert. |
 
-Kein Abonnement. Keine versteckten Gebühren. Keine Unternehmensagenda. Von der Community, für die Community.
+Kein Abonnement. Keine versteckten Gebühren. Keine Unternehmensagenda. Von der Community, für die Community gebaut.
 
 ---
 
@@ -98,7 +133,7 @@ Ihre Video-URL wird über yt-dlp heruntergeladen. Community-Mitglieder können v
 ### 2. Transkribieren
 Sprache wird über Groq Whisper in Text transkribiert. Der **Community-Groq-Pool** stellt kostenlose Transkriptionsguthaben bereit.
 
-**Sie verdienen:** Teilen Sie Ihren Groq-API-Key mit dem Pool. Der Anbieteranteil (60% der Übersetzungskosten, aufgeteilt auf alle genutzten Dienste) geht an die Key-Anbieter.
+**Sie verdienen:** Teilen Sie Ihren Groq-API-Schlüssel mit dem Pool. Der Anbieteranteil (60 % der Übersetzungskosten, aufgeteilt auf alle verwendeten Dienste) geht an die Schlüsselanbieter.
 
 ### 3. Übersetzen
 Untertitel werden über DeepSeek in die Zielsprache übersetzt (lokaler LLaMA-Fallback ist geplant).
@@ -106,7 +141,7 @@ Untertitel werden über DeepSeek in die Zielsprache übersetzt (lokaler LLaMA-Fa
 ### 4. Einbrennen
 Untertitel werden über FFmpeg in das Video eingebrannt. GPU-Unterstützung für lange Videos ist geplant.
 
-### 5. Ausliefern
+### 5. Liefern
 Ihr untertiteltes Video ist mit herunterladbaren SRT/VTT-Dateien bereit.
 
 ---
@@ -125,7 +160,7 @@ Ihr untertiteltes Video ist mit herunterladbaren SRT/VTT-Dateien bereit.
 
 | Plattform | Link |
 |----------|------|
-| **Website** | Bald verfügbar |
+| **Webseite** | Bald verfügbar |
 | **X / Twitter** | Bald verfügbar |
 | **Discord** | Bald verfügbar |
 | **GitHub** | [github.com/Nansoouu/subvox](https://github.com/Nansoouu/subvox) |
@@ -145,17 +180,17 @@ Ihr untertiteltes Video ist mit herunterladbaren SRT/VTT-Dateien bereit.
 
 Subvox ist so konzipiert, dass **jeder verdienen kann**, indem er zum Ökosystem beiträgt. Keine Programmierkenntnisse erforderlich.
 
-### 1. Teilen Sie Ihren Groq-Key
+### 1. Teilen Sie Ihren Groq-Schlüssel
 
-Fügen Sie Ihren Groq-API-Key zum Community-Pool hinzu und verdienen Sie einen Anteil am **60%-Anbieter-Pool** jedes Mal, wenn Ihr Key für die Transkription verwendet wird.
+Fügen Sie Ihren Groq-API-Schlüssel zum Community-Pool hinzu und verdienen Sie einen Anteil am **60 %-Anbieterpool** jedes Mal, wenn Ihr Schlüssel für die Transkription verwendet wird.
 
-| Kapazität Ihres Keys | Was Sie verdienen |
+| Kapazität Ihres Schlüssels | Was Sie verdienen |
 |--------------------|---------------|
-| 50% persönlich / 50% geteilt | Die Hälfte Ihres Keys für sich, die Hälfte für den Pool (Sie verdienen an beiden) |
-| 30 Min. tägliches Limit | Bis zu 30 Min./Tag für Sie reserviert, der Rest wird geteilt |
-| Unbegrenzt | Vollständiger persönlicher Zugriff + volle Pool-Belohnungen auf den geteilten Anteil |
+| 50 % persönlich / 50 % geteilt | Die Hälfte Ihres Schlüssels für sich, die Hälfte für den Pool (Sie verdienen an beiden) |
+| 30-minütiges tägliches Limit | Bis zu 30 Min./Tag für Sie reserviert, der Rest wird geteilt |
+| Unbegrenzt | Vollständiger persönlicher Zugriff + volle Pool-Belohnungen für den geteilten Anteil |
 
-**So geht's:** Verbinden Sie Ihr Wallet in der Web-App (bald verfügbar), gehen Sie zu Abrechnung > Groq-Pool, fügen Sie Ihren Key ein, stellen Sie Ihr persönliches Verhältnis ein.
+**So geht's:** Verbinden Sie Ihr Wallet in der Web-App (bald verfügbar), gehen Sie zu Abrechnung > Groq-Pool, fügen Sie Ihren Schlüssel ein, legen Sie Ihr persönliches Verhältnis fest.
 
 ### 2. Teilen Sie Ihre Cookies
 
@@ -165,34 +200,34 @@ Einige Plattformen (YouTube usw.) erfordern Authentifizierungs-Cookies, um Video
 
 ### 3. Halten Sie SUBVOX-Token
 
-Halten Sie SUBVOX-Token, um einen Anteil am **20%-Inhaber-Pool** zu verdienen, der täglich ausgeschüttet wird.
+Halten Sie SUBVOX-Token, um einen Anteil am **20 %-Inhaberpool** zu verdienen, der täglich ausgeschüttet wird.
 
 | Stufe | Mindestguthaben | Belohnungsgewicht | Vorteile |
 |------|----------------|---------------|----------|
-| **Decouverte** | 0 SUBVOX | Keine Belohnungen | Kostenlos für Videos < 2 Min., Wasserzeichen, 3/Tag |
-| **Passion** | 500.000 SUBVOX | 1x Gewicht | Unbegrenzte Dauer, kein Wasserzeichen, SRT-Export |
-| **Builder** | 1.000.000 SUBVOX + Anbieter-Key | 2x Gewicht | 2x Belohnungen, Bonus auf Ihren Anbieter-Key-Umsatz |
+| **Entdeckung** | 0 SUBVOX | Keine Belohnungen | Kostenlos für Videos < 2 Min., Wasserzeichen, 3/Tag |
+| **Leidenschaft** | 500.000 SUBVOX | 1-faches Gewicht | Unbegrenzte Dauer, kein Wasserzeichen, SRT-Export |
+| **Erbauer** | 1.000.000 SUBVOX + Anbieterschlüssel | 2-faches Gewicht | 2-fache Belohnungen, Bonus auf Ihren Anbieterschlüssel-Umsatz |
 
-**So funktioniert es:** Alle 24 Stunden wird der Inhaber-Pool proportional aufgeteilt. Wenn Sie 10% aller gewichteten SUBVOX halten, erhalten Sie 10% des Tagespools.
+**So funktioniert es:** Alle 24 Stunden wird der Inhaberpool proportional aufgeteilt. Wenn Sie 10 % aller gewichteten SUBVOX halten, erhalten Sie 10 % des Pools an diesem Tag.
 
 ---
 
 ## SUBVOX-Token & Stufen
 
-### Preisgestaltung
+### Preise
 
 Die Übersetzungskosten werden nach Videodauer berechnet. Die Preise sind in SUBVOX, pro Sprache.
 
 | Videodauer | Preis (SUBVOX) |
 |---------------|----------------|
-| < 2 Min. | **Kostenlos** (Decouverte-Stufe) |
+| < 2 Min. | **Kostenlos** (Entdeckungsstufe) |
 | 2-5 Min. | 500 |
 | 5-15 Min. | 1.500 |
 | 15-30 Min. | 3.000 |
 | 30-60 Min. | 6.000 |
 | 60-90 Min. | 10.000 |
 
-**Mehrsprachen-Rabatt:** 20% Rabatt auf jede weitere Sprache.
+**Mehrsprachenrabatt:** 20 % Rabatt auf jede weitere Sprache.
 
 ### Token
 
@@ -207,22 +242,22 @@ Die Übersetzungskosten werden nach Videodauer berechnet. Die Preise sind in SUB
 
 | Anteil | Wer bekommt ihn | Wofür |
 |-------|------------|----------|
-| **60%** | Anbieter | Proportional aufgeteilt auf genutzte Dienste: Groq (Transkription), DeepSeek (Übersetzung), OpenRouter (Vision), Cookies (Plattformzugriff) |
-| **10%** | Plattform | Hosting, Entwicklung, Betrieb |
-| **20%** | Inhaber-Pool | Täglich an alle SUBVOX-Token-Inhaber verteilt |
-| **5%** | Verbrannt | Token dauerhaft aus dem Umlauf entfernt |
-| **5%** | Betriebskosten | Infrastrukturkosten, API-Relay, Wartung |
+| **60 %** | Anbieter | Proportional aufgeteilt auf die verwendeten Dienste: Groq (Transkription), DeepSeek (Übersetzung), OpenRouter (Vision), Cookies (Plattformzugriff) |
+| **10 %** | Plattform | Hosting, Entwicklung, Betrieb |
+| **20 %** | Inhaberpool | Täglich an alle SUBVOX-Token-Inhaber ausgeschüttet |
+| **5 %** | Verbrannt | Token dauerhaft aus dem Umlauf entfernt |
+| **5 %** | Betriebsgebühren | Infrastrukturkosten, API-Relay, Wartung |
 
 Die Verteilung erfolgt **automatisch** alle 24 Stunden über einen Cron-Job. Kein manuelles Eingreifen erforderlich.
 
-**Beispiel:** Ein Job, der Groq + DeepSeek verwendet, teilt die 60% gleichmäßig auf (30% + 30%). Ein Job, der alle vier Dienste verwendet, teilt proportional auf (25% + 25% + 5% + 5%).
+**Beispiel:** Ein Auftrag, der Groq + DeepSeek verwendet, teilt die 60 % gleichmäßig auf (30 % + 30 %). Ein Auftrag, der alle vier Dienste verwendet, teilt proportional auf (25 % + 25 % + 5 % + 5 %).
 
 ### So erhalten Sie SUBVOX
 
 | Methode | Beschreibung |
-|--------|-------------|
+|-------------|--------|
 | **Code beitragen** | Reichen Sie einen PR bei [subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline) ein |
-| **Groq-Key teilen** | Fügen Sie Ihren Key zum Pool hinzu, verdienen Sie einen Anteil am 60%-Anbieter-Pool |
+| **Groq-Schlüssel teilen** | Fügen Sie Ihren Schlüssel zum Pool hinzu, verdienen Sie einen Anteil am 60 %-Anbieterpool |
 | **Cookies teilen** | Schalten Sie eingeschränkte Plattformen frei und verdienen Sie Belohnungen |
 | **Fehler melden** | Gültige Fehlermeldungen bringen Token ein |
 | **Community-Arbeit** | Übersetzungen, Dokumentation, Design, Moderation |
@@ -233,17 +268,17 @@ Die Verteilung erfolgt **automatisch** alle 24 Stunden über einen Cron-Job. Kei
 
 ## Community
 
-Subvox wird **für die Community, von der Community** entwickelt. Kein VC, keine Unternehmensagenda.
+Subvox ist **für die Community, von der Community** gebaut. Kein VC, keine Unternehmensagenda.
 
 ### So können Sie teilnehmen
 
 | Aktivität | Wo |
 |----------|-------|
-| **Einen Fehler melden** | [subvox-pipeline issues](https://github.com/Nansoouu/subvox-pipeline/issues) |
-| **Eine Funktion vorschlagen** | Gleiches Repo, Label `enhancement` |
+| **Einen Fehler melden** | [subvox-pipeline Issues](https://github.com/Nansoouu/subvox-pipeline/issues) |
+| **Eine Funktion vorschlagen** | Gleiches Repository, Label `enhancement` |
 | **Code einreichen** | Fork, Branch, PR |
 | **Das Projekt übersetzen** | Helfen Sie uns, weitere Sprachen hinzuzufügen |
-| **Groq-Key teilen** | Zum Pool hinzufügen, 55% pro Übersetzung verdienen |
+| **Groq-Schlüssel teilen** | Zum Pool hinzufügen, 55 % pro Übersetzung verdienen |
 | **Cookies teilen** | Plattformen freischalten, Belohnungen verdienen |
 
 ---
@@ -280,25 +315,25 @@ Subvox wird **für die Community, von der Community** entwickelt. Kein VC, keine
 Für Entwickler, die in den Code eintauchen möchten:
 
 ```
-Frontend (Next.js)  -->  Pipeline API (FastAPI)  -->  Celery Worker
+Frontend (Next.js)  -->  Pipeline-API (FastAPI)  -->  Celery Worker
                                                          |
                                                          |--> Herunterladen (yt-dlp)
                                                          |--> Transkribieren (Groq Whisper)
                                                          |--> Übersetzen (DeepSeek + LLaMA)
                                                          |--> Untertitel einbrennen (FFmpeg)
-                                                         |--> Ausliefern
+                                                         |--> Liefern
 ```
 
 | Repository | Sichtbarkeit | Zweck |
 |-----------|-----------|---------|
-| [subvox](https://github.com/Nansoouu/subvox) | Öffentlich | **Dieses Repo** – Community-Hub, Dokumentation, Pools |
+| [subvox](https://github.com/Nansoouu/subvox) | Öffentlich | **Dieses Repository** – Community-Hub, Dokumentation, Pools |
 | [subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline) | Öffentlich | Pipeline-Engine (Open Source) |
 
 ---
 
 ## ⭐ Unterstützen Sie das Projekt
 
-Wenn Sie dies nützlich finden, **geben Sie dem Repo einen Stern** ⭐. Es dauert einen Klick und hilft wirklich – es zeigt mir, dass dieses Projekt echten Menschen wichtig ist, was mich motiviert, weiterzuentwickeln.
+Wenn Sie dies nützlich finden, **geben Sie dem Repository einen Stern** ⭐. Es dauert nur einen Klick und hilft wirklich – es zeigt mir, dass dieses Projekt echten Menschen wichtig ist, was mich motiviert, weiterzumachen.
 
 ---
 
@@ -306,4 +341,4 @@ Wenn Sie dies nützlich finden, **geben Sie dem Repo einen Stern** ⭐. Es dauer
 
 MIT – siehe [LICENSE](LICENSE).
 
-Mit Liebe erstellt von [Nansou](https://github.com/Nansoouu) und der Subvox-Community.
+Mit Liebe gebaut von [Nansou](https://github.com/Nansoouu) und der Subvox-Community.

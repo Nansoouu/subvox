@@ -22,11 +22,11 @@
 ## Screenshots
 
 <div align="center">
-  <img src="public/screenshots/download_subvox.png" alt="Download mode" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/download_subvox.png" alt="Download mode" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
   <br/>
-  <img src="public/screenshots/translate_mode_subvox.png" alt="Translate mode" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/translate_mode_subvox.png" alt="Translate mode" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
   <br/>
-  <img src="public/screenshots/reward_subvox.png" alt="Rewards page" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/reward_subvox.png" alt="Rewards page" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto">
   <br/>
   <em>Download · Translate · Earn — all in one platform</em>
 </div>
@@ -53,11 +53,11 @@
 ## Ảnh chụp màn hình
 
 <div align="center">
-  <img src="public/screenshots/download_subvox.png" alt="Chế độ tải xuống" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/download_subvox.png" alt="Chế độ tải xuống" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
   <br/>
-  <img src="public/screenshots/translate_mode_subvox.png" alt="Chế độ dịch thuật" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/translate_mode_subvox.png" alt="Chế độ dịch thuật" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
   <br/>
-  <img src="public/screenshots/reward_subvox.png" alt="Trang phần thưởng" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto">
+  <img src="https://raw.githubusercontent.com/Nansoouu/subvox/main/public/screenshots/reward_subvox.png" alt="Trang phần thưởng" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto">
   <br/>
   <em>Tải xuống · Dịch thuật · Kiếm tiền — tất cả trong một nền tảng</em>
 </div>

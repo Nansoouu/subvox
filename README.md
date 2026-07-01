@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✦ Subvox ✦
+# Subvox
 
-**The open-source video subtitle studio**  
+**The open-source video subtitle studio**
 *Translate any video into 21 languages, in minutes. 1800+ platforms supported.*
 
 [![Status](https://img.shields.io/badge/status-alpha-orange?style=flat-square)](/#)
@@ -10,14 +10,14 @@
 
 ---
 
-**[subvox.app](/#) &middot; [Get started](#get-started) &middot; [Earn](#earn) &middot; [HOLD token](#hold-token) &middot; [Community](#community)**
+**[Get started](#get-started) : [How it works](#how-the-pipeline-works) : [Earn](#earn) : [HOLD token](#subvox-tier-system) : [Community](#community)**
 
 ---
 
 </div>
 
-> **⚠️ OFFICIAL POINT OF REFERENCE**  
-> This repository is the **only official source** for Subvox. All official wallet addresses, token contracts, and links are listed here and nowhere else.  
+> **OFFICIAL POINT OF REFERENCE**
+> This repository is the **only official source** for Subvox. All official wallet addresses, token contracts, and links are listed here and nowhere else.
 > **Never trust Subvox addresses found anywhere else.** If it's not in this repo, it's a scam.
 
 ---
@@ -26,16 +26,48 @@
 
 Subvox is an **open-source subtitle engine** for the community, by the community. Paste any video URL, pick a language, and get a subtitled video in minutes.
 
-**1800+ platforms supported** — X/Twitter, TikTok, YouTube, Instagram, Vimeo, Dailymotion, Facebook, and thousands more via yt-dlp.
+**1800+ platforms supported** via yt-dlp: X/Twitter, TikTok, YouTube, Instagram, Vimeo, Dailymotion, Facebook, and thousands more.
 
 No subscription. No hidden fees. Transparent and decentralized.
 
-### How it works
+---
 
-1. **Paste a URL** — from any of 1800+ supported platforms
-2. **Pick a language** — 21 languages supported
-3. **Wait 1-10 minutes** — the pipeline handles everything
-4. **Get your video** — with burned-in subtitles + downloadable SRT/VTT
+## How the pipeline works
+
+Every translation goes through 5 steps. Here is how the **community** powers each one:
+
+### 1. Download
+Your video URL is downloaded via yt-dlp. Community members can share encrypted cookies to unlock restricted platforms (YouTube, etc.).
+
+**How the community helps:** Share your browser cookies and earn SUBVOX each time they are used.
+
+### 2. Transcribe
+Speech is transcribed to text via Groq Whisper. The **community Groq pool** provides free transcription credits.
+
+**How the community helps:** Share your Groq API key with the pool. 75% of the translation cost goes to the key provider.
+
+### 3. Translate
+Subtitles are translated into the target language via DeepSeek (with local LLaMA fallback planned).
+
+### 4. Burn
+Subtitles are burned into the video via FFmpeg. GPU support for long videos is planned.
+
+### 5. Deliver
+Your subtitled video is ready with downloadable SRT/VTT files.
+
+---
+
+## Community economy
+
+Every translation generates SUBVOX tokens that are split automatically:
+
+| Share | Who gets it | What for |
+|-------|------------|----------|
+| **75%** | Groq key provider | The person who shared their Groq key for this translation |
+| **15%** | Platform | Hosting, development, operations |
+| **10%** | Holders pool | Distributed daily to all SUBVOX token holders |
+
+The distribution happens **on-chain** every 24 hours via a cron job. No manual intervention.
 
 ---
 
@@ -75,67 +107,80 @@ Subvox is designed so that **anyone can earn** by contributing to the ecosystem.
 
 ### 1. Share your Groq key
 
-If you have a Groq API key with free credits, share it with the community pool and earn rewards proportional to usage.
+Add your Groq API key to the community pool and earn **75% of every translation** that uses your key.
 
-| Your contribution | You earn |
-|-----------------|----------|
-| 1 hour of Groq transcription | SUBTEST tokens |
-| 10 hours | Bonus multiplier |
+| Your key's capacity | What you earn |
+|--------------------|---------------|
+| 50% personal / 50% shared | Half your key for yourself, half for the pool (you earn on both) |
+| 30 min daily limit | Up to 30 min/day reserved for you, rest shared |
+| Unlimited | Full personal access + full pool rewards on shared portion |
 
-**How:** Connect your wallet on the web app (coming soon), link your Groq key, and set your reward rate.
+**How:** Connect your wallet on the web app (coming soon), go to Billing > Groq Pool, paste your key, set your personal ratio.
 
 ### 2. Share your cookies
 
-Some platforms (YouTube, etc.) require cookies to download videos. Share your cookies securely and earn rewards when they're used.
+Some platforms (YouTube, etc.) require authentication cookies to download videos. Share your encrypted cookies and earn SUBVOX each time they are used.
 
-| Your contribution | You earn |
-|-----------------|----------|
-| Valid YouTube cookies | SUBTEST tokens per use |
-| Multi-region cookies | Premium rate |
+**How:** Your cookies are encrypted with Fernet (AES) and stored securely. You can revoke access at any time.
 
-**How:** Your cookies are encrypted and stored securely. You can revoke access at any time.
+### 3. Hold SUBVOX tokens
 
-### 3. Hold SUBTEST tokens
+Hold SUBVOX tokens to earn a share of the **10% holders pool**, distributed daily.
 
-Hold SUBTEST tokens to earn a share of platform revenue.
+| Tier | Minimum balance | Reward weight | Benefits |
+|------|----------------|---------------|----------|
+| **Decouverte** | 0 SUBVOX | No rewards | Free for videos < 2 min, watermark, 3/day |
+| **Passion** | 500,000 SUBVOX | 1x weight | Unlimited duration, no watermark, SRT export |
+| **Builder** | 1,000,000 SUBVOX + Groq key | 2x weight | 2x rewards, +75% revenue on your Groq key |
 
-| Tokens held | Revenue share |
-|------------|--------------|
-| 100+ SUBTEST | Basic tier |
-| 1,000+ SUBTEST | Premium tier (x2 multiplier) |
-| 10,000+ SUBTEST | Whale tier (x5 multiplier) |
-
-**How it works:** A percentage of every paid translation goes to a rewards pool. Token holders receive their share proportionally.
+**How it works:** Every 24 hours, the holders pool (10% of all translation fees) is split proportionally. If you hold 10% of all staked SUBVOX, you get 10% of that day's pool.
 
 ---
 
-## HOLD token
+## SUBVOX pricing
 
-SUBTEST is a utility token on **Solana devnet** that powers the Subvox community economy.
+Translation costs are calculated by video duration. Prices are in SUBVOX, per language.
+
+| Video duration | Price (SUBVOX) |
+|---------------|----------------|
+| < 2 min | **Free** (Decouverte tier) |
+| 2-5 min | 500 |
+| 5-15 min | 1,500 |
+| 15-30 min | 3,000 |
+| 30-60 min | 6,000 |
+| 60-90 min | 10,000 |
+
+**Multi-language discount:** 20% off each additional language.
+
+---
+
+## SUBVOX token
 
 | Property | Value |
 |----------|-------|
-| Token name | SUBTEST |
-| Network | Solana devnet |
+| Token name | SUBVOX |
+| Network | Solana (devnet for testing, mainnet TBD) |
 | Token address | Coming soon |
 | Decimals | 6 |
 
 ### Token utility
 
-- **Earn rewards** — Holders receive a share of platform revenue
-- **Community credits** — Use SUBTEST to run translations when the free pool is busy
-- **Governance** — Future voting power on pool allocation decisions
+- **Earn rewards**: Holders receive 10% of all translation fees, distributed daily
+- **Pay for translations**: Use SUBVOX to run translations
+- **Tier access**: Hold 500K+ for Passion tier, 1M+ for Builder tier
+- **Governance**: Future voting power on pool allocation decisions
 
-### How to get SUBTEST
+### How to get SUBVOX
 
 | Method | Description |
 |--------|-------------|
 | **Contribute code** | Submit a PR to [subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline) |
-| **Share resources** | Groq keys, cookies, GPU compute |
+| **Share a Groq key** | Add your key to the pool, earn 75% per translation |
+| **Share cookies** | Unlock restricted platforms and earn rewards |
 | **Report bugs** | Valid bug reports earn tokens |
 | **Community work** | Translations, docs, design, moderation |
 
-> **Important:** SUBTEST is a devnet token with **no monetary value**. It is a community utility token, not an investment. Never pay money for SUBTEST.
+> **Important:** SUBVOX is a community utility token. It has no guaranteed monetary value. Never pay money for SUBVOX.
 
 ---
 
@@ -150,22 +195,9 @@ Subvox is built **for the community, by the community**. No VC, no corporate age
 | **Report a bug** | [subvox-pipeline issues](https://github.com/Nansoouu/subvox-pipeline/issues) |
 | **Suggest a feature** | Same repo, label `enhancement` |
 | **Submit code** | Fork, branch, PR |
-| **Translate** | Help us add more languages |
-| **Share resources** | Groq keys, cookies, GPU time |
-
-### Token rewards for contributors
-
-| Contribution | SUBTEST |
-|-------------|---------|
-| Add a language | 10 |
-| Write tests | 10 |
-| Fix a bug | 15 |
-| Minor feature | 50 |
-| Cache implementation | 75 |
-| YouTube full support | 200 |
-| Plugin system | 500 |
-
-See [rewards/](rewards/) for full tokenomics.
+| **Translate the project** | Help us add more languages |
+| **Share Groq key** | Add to pool, earn 75% per translation |
+| **Share cookies** | Unlock platforms, earn rewards |
 
 ---
 
@@ -173,15 +205,14 @@ See [rewards/](rewards/) for full tokenomics.
 
 English, French, Spanish, Portuguese, German, Italian, Dutch, Polish, Russian, Arabic, Hindi, Chinese (Simplified), Japanese, Korean, Turkish, Vietnamese, Thai, Indonesian, Romanian, Hungarian, Ukrainian.
 
-Translations of this README are available in:
+Translations of this README:
 
-- [English](docs/readmes/README.en.md)
-- [French / Francais](docs/readmes/README.fr.md)
-- [Spanish / Espanol](docs/readmes/README.es.md)
-- [Portuguese / Portugues](docs/readmes/README.pt.md)
-- [German / Deutsch](docs/readmes/README.de.md)
-- [Italian / Italiano](docs/readmes/README.it.md)
-- And more coming soon
+- [English](/README.md)
+- [Francais](docs/readmes/README.fr.md)
+- [Espanol](docs/readmes/README.es.md)
+- [Portugues](docs/readmes/README.pt.md)
+- [Deutsch](docs/readmes/README.de.md)
+- [Italiano](docs/readmes/README.it.md)
 
 ---
 
@@ -190,24 +221,24 @@ Translations of this README are available in:
 For developers who want to dive into the code:
 
 ```
-Frontend (Next.js)  →  Pipeline API (FastAPI)  →  Celery Worker
-                                                     │
-                                                     ├── Download (yt-dlp)
-                                                     ├── Transcribe (Groq Whisper)
-                                                     ├── Translate (DeepSeek + LLaMA fallback)
-                                                     ├── Burn subtitles (FFmpeg)
-                                                     └── Upload
+Frontend (Next.js)  -->  Pipeline API (FastAPI)  -->  Celery Worker
+                                                         |
+                                                         |--> Download (yt-dlp)
+                                                         |--> Transcribe (Groq Whisper)
+                                                         |--> Translate (DeepSeek + LLaMA)
+                                                         |--> Burn subtitles (FFmpeg)
+                                                         |--> Deliver
 ```
 
 | Repository | Visibility | Purpose |
 |-----------|-----------|---------|
-| [subvox](https://github.com/Nansoouu/subvox) | Public | **This repo** — community hub, docs, pools |
+| [subvox](https://github.com/Nansoouu/subvox) | Public | **This repo** -- community hub, docs, pools |
 | [subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline) | Public | Pipeline engine (open-source) |
 
 ---
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT -- see [LICENSE](LICENSE).
 
 Built with love by [Nansou](https://github.com/Nansoouu) and the Subvox community.

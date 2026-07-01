@@ -1,38 +1,66 @@
-# Subvox — Spanish README
+# Subvox -- Spanish README
 
 Read the main English README for the full version. Here is the key information in Spanish.
 
 ## Que es Subvox?
 
-Subvox es un **motor de subtitulos open-source** para la comunidad. Pega una URL de video, elige un idioma, y obtén un video subtitulado en minutos.
+Subvox es un **motor de subtitulos open-source** para la comunidad. Pega una URL de video, elige un idioma, y obten un video subtitulado en minutos.
 
-**Mas de 1800 plataformas soportadas** — X/Twitter, TikTok, YouTube, Instagram, Vimeo, Dailymotion, y miles mas via yt-dlp.
+**Mas de 1800 plataformas soportadas** via yt-dlp: X/Twitter, TikTok, YouTube, Instagram, Vimeo, Dailymotion, y miles mas.
 
-## Como funciona
+## Como funciona la pipeline
 
-1. **Pega una URL** — desde cualquier plataforma entre 1800+
-2. **Elige un idioma** — 21 idiomas disponibles
-3. **Espera 1-10 minutos** — el pipeline hace todo
-4. **Obtén tu video** — subtitulos incrustados + SRT/VTT descargables
+Cada traduccion pasa por 5 pasos. La comunidad interviene en cada uno:
+
+### 1. Download
+Descarga via yt-dlp. Los miembros pueden compartir cookies encriptadas para plataformas restringidas.
+
+### 2. Transcribe
+Transcripcion via Groq Whisper. El **pool comunitario Groq** provee creditos gratuitos.
+
+### 3. Translate
+Traduccion de subtitulos via DeepSeek.
+
+### 4. Burn
+Incrustacion de subtitulos en el video via FFmpeg.
+
+### 5. Deliver
+Tu video subtitulado esta listo, con archivos SRT/VTT descargables.
+
+## Economia comunitaria
+
+| Porcion | Quien recibe | Proposito |
+|---------|-------------|-----------|
+| **75%** | Proveedor de clave Groq | La persona que compartio su clave |
+| **15%** | Plataforma | Hosting, desarrollo, operaciones |
+| **10%** | Pool de holders | Distribuido diariamente a todos los holders |
+
+## Precios SUBVOX
+
+| Duracion | Precio (SUBVOX) |
+|----------|----------------|
+| < 2 min | **Gratis** (tier Decouverte) |
+| 2-5 min | 500 |
+| 5-15 min | 1,500 |
+| 15-30 min | 3,000 |
+| 30-60 min | 6,000 |
+| 60-90 min | 10,000 |
 
 ## Como ganar
 
-Subvox esta disenado para que **todos puedan ganar** contribuyendo al ecosistema, sin saber programar.
+**1. Comparte tu clave Groq** -- Gana 75% de cada traduccion que use tu clave.
 
-**1. Comparte tu clave Groq** — Presta tus creditos Groq al pool comunitario y gana SUBTEST proporcional al uso.
+**2. Comparte tus cookies** -- Desbloquea plataformas restringidas y gana SUBVOX.
 
-**2. Comparte tus cookies** — Algunos sitios (YouTube...) requieren cookies. Compartelos de forma segura y gana recompensas.
+**3. Ten SUBVOX** -- Los holders reciben 10% de las tarifas, distribuido diariamente.
 
-**3. Ten SUBTEST** — Los tenedores reciben una parte de los ingresos de la plataforma.
+## Tiers
 
-## Token SUBTEST
-
-| Propiedad | Valor |
-|-----------|-------|
-| Nombre | SUBTEST |
-| Red | Solana devnet |
-| Direccion del token | Proximamente |
-| Decimales | 6 |
+| Tier | Balance minima | Peso rewards | Beneficios |
+|------|---------------|--------------|------------|
+| **Decouverte** | 0 SUBVOX | Sin rewards | Gratis < 2 min, watermark, 3/dia |
+| **Passion** | 500,000 SUBVOX | 1x | Duracion ilimitada, sin watermark |
+| **Builder** | 1,000,000 SUBVOX + clave Groq | 2x | Rewards x2, +75% en tu clave Groq |
 
 ## Enlaces oficiales
 
@@ -43,6 +71,5 @@ Subvox esta disenado para que **todos puedan ganar** contribuyendo al ecosistema
 | **Discord** | Proximamente |
 | **GitHub** | [github.com/Nansoouu/subvox](https://github.com/Nansoouu/subvox) |
 
-> **⚠️ PUNTO DE REFERENCIA OFICIAL**  
-> Este repositorio de GitHub es la **unica fuente oficial** de Subvox. Todas las direcciones oficiales de billeteras, contratos de tokens y enlaces estan listados aqui.  
-> **Nunca confies en direcciones de Subvox encontradas en otro lugar.**
+> **PUNTO DE REFERENCIA OFICIAL**
+> Este repositorio es la **unica fuente oficial** de Subvox. **Nunca confies en direcciones de Subvox encontradas en otro lugar.**

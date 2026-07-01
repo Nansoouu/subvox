@@ -1,116 +1,309 @@
-# Subvox -- README Francais
+<a href="../README.md"><img src="https://img.shields.io/badge/English-🇬🇧-blue" alt="English"></a>  
+<a href="README.fr.md"><img src="https://img.shields.io/badge/Français-🇫🇷-blue" alt="Français"></a>  
+<a href="README.es.md"><img src="https://img.shields.io/badge/Español-🇪🇸-green" alt="Español"></a>  
+<a href="README.pt.md"><img src="https://img.shields.io/badge/Português-🇵🇹-brightgreen" alt="Português"></a>  
+<a href="README.de.md"><img src="https://img.shields.io/badge/Deutsch-🇩🇪-orange" alt="Deutsch"></a>  
+<a href="README.it.md"><img src="https://img.shields.io/badge/Italiano-🇮🇹-red" alt="Italiano"></a>  
+<a href="README.nl.md"><img src="https://img.shields.io/badge/Nederlands-🇳🇱-brightblue" alt="Nederlands"></a>  
+<a href="README.pl.md"><img src="https://img.shields.io/badge/Polski-🇵🇱-purple" alt="Polski"></a>  
+<a href="README.ru.md"><img src="https://img.shields.io/badge/Русский-🇷🇺-purple" alt="Русский"></a>  
+<a href="README.uk.md"><img src="https://img.shields.io/badge/Українська-🇺🇦-yellow" alt="Українська"></a>  
+<a href="README.ar.md"><img src="https://img.shields.io/badge/العربية-🇸🇦-lightgrey" alt="العربية"></a>  
+<a href="README.hi.md"><img src="https://img.shields.io/badge/हिन्दी-🇮🇳-orange" alt="हिन्दी"></a>  
+<a href="README.fa.md"><img src="https://img.shields.io/badge/فارسی-🇮🇷-green" alt="فارسی"></a>  
+<a href="README.he.md"><img src="https://img.shields.io/badge/עברית-🇮🇱-blue" alt="עברית"></a>  
+<a href="README.zh.md"><img src="https://img.shields.io/badge/中文-🇨🇳-critical" alt="中文"></a>  
+<a href="README.ja.md"><img src="https://img.shields.io/badge/日本語-🇯🇵-blueviolet" alt="日本語"></a>  
+<a href="README.ko.md"><img src="https://img.shields.io/badge/한국어-🇰🇷-brightblue" alt="한국어"></a>  
+<a href="README.tr.md"><img src="https://img.shields.io/badge/Türkçe-🇹🇷-red" alt="Türkçe"></a>  
+<a href="README.vi.md"><img src="https://img.shields.io/badge/Tiếng%20Việt-🇻🇳-brightgreen" alt="Tiếng Việt"></a>  
+<a href="README.id.md"><img src="https://img.shields.io/badge/Bahasa%20Indonesia-🇮🇩-red" alt="Bahasa Indonesia"></a>
 
-<a href="../README.md"><img src="https://img.shields.io/badge/English-🇬🇧-blue" alt="English"></a>
-<a href="README.fr.md"><img src="https://img.shields.io/badge/Francais-🇫🇷-blue" alt="Francais"></a>
-<a href="README.es.md"><img src="https://img.shields.io/badge/Espanol-🇪🇸-green" alt="Espanol"></a>
-<a href="README.pt.md"><img src="https://img.shields.io/badge/Portugues-🇵🇹-brightgreen" alt="Portugues"></a>
-<a href="README.de.md"><img src="https://img.shields.io/badge/Deutsch-🇩🇪-orange" alt="Deutsch"></a>
-<a href="README.it.md"><img src="https://img.shields.io/badge/Italiano-🇮🇹-red" alt="Italiano"></a>
-<a href="README.nl.md"><img src="https://img.shields.io/badge/Nederlands-🇳🇱-brightblue" alt="Nederlands"></a>
-<a href="README.pl.md"><img src="https://img.shields.io/badge/Polski-🇵🇱-purple" alt="Polski"></a>
-<a href="README.ru.md"><img src="https://img.shields.io/badge/Russian-🇷🇺-purple" alt="Russian"></a>
-<a href="README.uk.md"><img src="https://img.shields.io/badge/Українська-🇺🇦-yellow" alt="Українська"></a>
-<a href="README.ar.md"><img src="https://img.shields.io/badge/العربية-🇸🇦-lightgrey" alt="العربية"></a>
-<a href="README.hi.md"><img src="https://img.shields.io/badge/हिन्दी-🇮🇳-orange" alt="हिन्दी"></a>
-<a href="README.fa.md"><img src="https://img.shields.io/badge/فارسی-🇮🇷-green" alt="فارسی"></a>
-<a href="README.he.md"><img src="https://img.shields.io/badge/עברית-🇮🇱-blue" alt="עברית"></a>
-<a href="README.zh.md"><img src="https://img.shields.io/badge/中文-🇨🇳-critical" alt="中文"></a>
-<a href="README.ja.md"><img src="https://img.shields.io/badge/日本語-🇯🇵-blueviolet" alt="日本語"></a>
-<a href="README.ko.md"><img src="https://img.shields.io/badge/한국어-🇰🇷-brightblue" alt="한국어"></a>
-<a href="README.tr.md"><img src="https://img.shields.io/badge/Türkçe-🇹🇷-red" alt="Türkçe"></a>
-<a href="README.vi.md"><img src="https://img.shields.io/badge/Tiếng_Việt-🇻🇳-brightgreen" alt="Tiếng Việt"></a>
-<a href="README.id.md"><img src="https://img.shields.io/badge/Bahasa_Indonesia-🇮🇩-red" alt="Bahasa Indonesia"></a>---
+## Screenshots
 
-Lisez le README principal en anglais pour la version complete. Voici les informations cles en francais.
+<div align="center">
+  <img src="public/screenshots/download_subvox.png" alt="Download mode" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <br/>
+  <img src="public/screenshots/translate_mode_subvox.png" alt="Translate mode" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <br/>
+  <img src="public/screenshots/reward_subvox.png" alt="Rewards page" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto">
+  <br/>
+  <em>Download · Translate · Earn — all in one platform</em>
+</div>
 
-## Qu'est-ce que Subvox ?
+---
 
-Subvox est un **moteur de sous-titrage open-source** pour la communaute. Collez une URL video, choisissez une langue, obtenez une video sous-titree en minutes.
+<div align="center">
 
-**Plus de 1800 plateformes supportees** via yt-dlp: X/Twitter, TikTok, YouTube, Instagram, Vimeo, Dailymotion, et des milliers d'autres.
+[![Subvox](https://img.shields.io/badge/Subvox%20Ecosystem-00A86B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nansoouu/subvox)
+[![Pipeline](https://img.shields.io/badge/Pipeline%20Engine-00A86B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nansoouu/subvox-pipeline)
+
+</div>
+
+---
+
+</div>
+
+> **POINT DE RÉFÉRENCE OFFICIEL**
+> Ce dépôt est la **seule source officielle** de Subvox. Toutes les adresses de portefeuille officielles, les contrats de jetons et les liens sont listés ici et nulle part ailleurs.
+> **Ne faites jamais confiance aux adresses Subvox trouvées ailleurs.** Si ce n'est pas dans ce dépôt, c'est une arnaque.
+
+---
+
+## Captures d'écran
+
+<div align="center">
+  <img src="public/screenshots/download_subvox.png" alt="Mode téléchargement" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <br/>
+  <img src="public/screenshots/translate_mode_subvox.png" alt="Mode traduction" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto;margin-bottom:16px">
+  <br/>
+  <img src="public/screenshots/reward_subvox.png" alt="Page des récompenses" style="border-radius:12px;border:1px solid rgba(255,255,255,0.1);max-width:100%;height:auto">
+  <br/>
+  <em>Téléchargez · Traduisez · Gagnez — le tout sur une seule plateforme</em>
+</div>
+
+---
 
 ## Pourquoi Subvox ?
 
-La traduction video concerne **des milliards de personnes**. Un tutoriel coreen, une conference allemande, un cours arabe, un vlog espagnol. La langue ne devrait jamais etre une barriere.
+La traduction vidéo concerne **des milliards de personnes**. Un tutoriel coréen, une conférence allemande, un cours arabe, un vlog espagnol. La langue ne devrait jamais être une barrière.
 
-**Le probleme:** Les outils existants (Veed, Kapwing, Descript, Opus Clip) limitent la duree, les exports, et enferment dans des abonnements couteux.
+**Le problème :** Les outils existants (Veed, Kapwing, Descript, Opus Clip) vous limitent à quelques minutes, restreignent vos exportations et vous enferment dans des abonnements coûteux. Ils facturent une fortune pour ce qui devrait être accessible.
 
-**La solution:** Une communaute decentralisee ou tout le monde gagne.
+**La solution :** Une communauté décentralisée où tout le monde gagne.
 
 | Qui | Ce qu'ils obtiennent |
-|-----|---------------------|
-| **Gros utilisateurs** | Traduisez des videos illimitees a prix reduit. 21 langues. |
-| **Detenteurs de cle Groq** | Partagez vos cles inutilisees et gagnez 55% de chaque traduction. |
-| **Holders de tokens** | Stakez 500K+ SUBVOX et gagnez des rewards quotidiens. |
-| **Contributeurs** | Signalez des bugs, ecrivez du code, traduisez. Gagnez des SUBVOX. |
-| **Tout le monde** | Systeme transparent et verifiable. Nous certifions que chacun est paye. |
+|-----|---------------|
+| **Utilisateurs intensifs** | Traduisez des vidéos illimitées à une fraction des prix des concurrents. Pas de limites de temps. 21 langues. |
+| **Détenteurs de clés Groq** | Partagez les clés que vous n'utilisez pas et gagnez une part du pool de 60 % des fournisseurs. Revenus passifs. |
+| **Détenteurs de jetons** | Staker 500 000+ SUBVOX et gagnez des récompenses quotidiennes provenant du pool des détenteurs (20 %). |
+| **Correcteurs de bugs et contributeurs** | Signalez des bugs, écrivez du code, traduisez des langues. Gagnez des SUBVOX qui ont une valeur monétaire réelle. |
+| **Tout le monde** | Transparent, vérifiable, on-chain. Nous certifions que tout le monde est payé et que le système fonctionne. |
 
-## Comment la pipeline fonctionne
+Pas d'abonnement. Pas de frais cachés. Pas d'agenda d'entreprise. Construit par la communauté, pour la communauté.
 
-### 1. Download
-Telechargement via yt-dlp. Partagez vos cookies cryptes et gagnez des SUBVOX a chaque utilisation.
+---
 
-### 2. Transcribe
-Transcription via Groq Whisper. La **pool communautaire Groq** fournit des credits gratuits. Partagez votre cle et gagnez 55% du cout.
+## Comment fonctionne le pipeline
 
-### 3. Translate
-Traduction des sous-titres via DeepSeek.
+Chaque traduction passe par 5 étapes. Voici comment la **communauté** alimente chacune d'elles.
 
-### 4. Burn
-Incrustation des sous-titres dans la video via FFmpeg.
+> 💡 **Vous voulez voir comment ça fonctionne sous le capot ?** Le pipeline est entièrement open-source sur [github.com/Nansoouu/subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline). Vous pouvez l'exécuter vous-même, inspecter chaque ligne de code et contribuer.
 
-### 5. Deliver
-Votre video sous-titree est prete, avec fichiers SRT/VTT telechargeables.
+### 1. Téléchargement
+L'URL de votre vidéo est téléchargée via yt-dlp. Les membres de la communauté peuvent partager des cookies cryptés pour débloquer des plateformes restreintes (YouTube, etc.).
 
-## Economie communautaire
+**Vous gagnez :** Partagez vos cookies et soyez récompensé à chaque fois qu'ils sont utilisés.
 
-Chaque traduction genere des SUBVOX repartis automatiquement:
+### 2. Transcription
+La parole est transcrite en texte via Groq Whisper. Le **pool communautaire Groq** fournit des crédits de transcription gratuits.
 
-| Part | Qui recoit |
-|------|-----------|
-| **55%** | Fournisseur de cle Groq |
-| **20%** | Plateforme (hebergement, dev, ops) |
-| **20%** | Pool des holders (distribue quotidiennement) |
-| **5%** | Brule (retire de la circulation) |
+**Vous gagnez :** Partagez votre clé API Groq avec le pool. La part du fournisseur (60 % du coût de traduction, répartie entre tous les services utilisés) revient aux fournisseurs de clés.
 
-## Tarifs SUBVOX
+### 3. Traduction
+Les sous-titres sont traduits dans la langue cible via DeepSeek (avec un repli local LLaMA prévu).
 
-| Duree video | Prix (SUBVOX) |
-|------------|---------------|
-| < 2 min | **Gratuit** (tier Decouverte) |
-| 2-5 min | 500 |
-| 5-15 min | 1,500 |
-| 15-30 min | 3,000 |
-| 30-60 min | 6,000 |
-| 60-90 min | 10,000 |
+### 4. Incrustation
+Les sous-titres sont incrustés dans la vidéo via FFmpeg. La prise en charge GPU pour les longues vidéos est prévue.
 
-**Reduction multi-langues:** 20% sur chaque langue supplementaire.
+### 5. Livraison
+Votre vidéo sous-titrée est prête avec les fichiers SRT/VTT téléchargeables.
 
-## Comment gagner
+---
 
-**1. Partagez votre cle Groq** -- Gagnez 55% de chaque traduction qui utilise votre cle.
+## Pour commencer
 
-**2. Partagez vos cookies** -- Debloquez les plateformes restreintes et gagnez des SUBVOX.
+| Méthode | Statut |
+|--------|--------|
+| **Application web** | À venir |
+| **API** | À venir |
+| **CLI** | À venir |
 
-**3. Detenez des SUBVOX** -- Les holders recoivent 10% des frais, distribues quotidiennement.
-
-## Tiers
-
-| Tier | Solde minimum | Poids rewards | Avantages |
-|------|--------------|---------------|-----------|
-| **Decouverte** | 0 SUBVOX | Pas de rewards | Gratuit < 2 min, watermark, 3/jour |
-| **Passion** | 500,000 SUBVOX | 1x | Duree illimitee, sans watermark |
-| **Builder** | 1,000,000 SUBVOX + cle Groq | 2x | Rewards x2, +55% sur votre cle Groq |
+---
 
 ## Liens officiels
 
 | Plateforme | Lien |
-|-----------|------|
-| **Site web** | A venir |
-| **X / Twitter** | A venir |
-| **Discord** | A venir |
+|----------|------|
+| **Site web** | À venir |
+| **X / Twitter** | À venir |
+| **Discord** | À venir |
 | **GitHub** | [github.com/Nansoouu/subvox](https://github.com/Nansoouu/subvox) |
 
-> **POINT DE REFERENCE OFFICIEL**
-> Ce depot GitHub est la **seule source officielle** de Subvox.
-> **Ne faites jamais confiance a des adresses Subvox trouvees ailleurs.**
+### Portefeuilles Solana officiels
+
+| Réseau | Adresse | Objectif |
+|---------|---------|---------|
+| **Devnet** | À venir | Jeton SUBTEST, transactions de test |
+| **Mainnet** | À venir | Futur jeton SUBVOX, revenus de la plateforme |
+
+> Ce sont les **seuls portefeuilles Subvox officiels**. Nous ne vous demanderons jamais d'envoyer des fonds à une autre adresse. Méfiez-vous des imposteurs.
+
+---
+
+## Gagner
+
+Subvox est conçu pour que **tout le monde puisse gagner** en contribuant à l'écosystème. Aucune compétence en codage requise.
+
+### 1. Partagez votre clé Groq
+
+Ajoutez votre clé API Groq au pool communautaire et gagnez une part du **pool des fournisseurs (60 %)** à chaque fois que votre clé est utilisée pour la transcription.
+
+| Capacité de votre clé | Ce que vous gagnez |
+|--------------------|---------------|
+| 50 % personnel / 50 % partagé | La moitié de votre clé pour vous, la moitié pour le pool (vous gagnez sur les deux) |
+| Limite quotidienne de 30 min | Jusqu'à 30 min/jour réservées pour vous, le reste partagé |
+| Illimité | Accès personnel complet + récompenses complètes du pool sur la part partagée |
+
+**Comment :** Connectez votre portefeuille sur l'application web (à venir), allez dans Facturation > Pool Groq, collez votre clé, définissez votre ratio personnel.
+
+### 2. Partagez vos cookies
+
+Certaines plateformes (YouTube, etc.) nécessitent des cookies d'authentification pour télécharger des vidéos. Partagez vos cookies cryptés et gagnez des SUBVOX à chaque fois qu'ils sont utilisés.
+
+**Comment :** Vos cookies sont cryptés avec Fernet (AES) et stockés en toute sécurité. Vous pouvez révoquer l'accès à tout moment.
+
+### 3. Détenez des jetons SUBVOX
+
+Détenez des jetons SUBVOX pour gagner une part du **pool des détenteurs (20 %)**, distribué quotidiennement.
+
+| Niveau | Solde minimum | Poids de récompense | Avantages |
+|------|----------------|---------------|----------|
+| **Découverte** | 0 SUBVOX | Aucune récompense | Gratuit pour les vidéos < 2 min, filigrane, 3/jour |
+| **Passion** | 500 000 SUBVOX | Poids 1x | Durée illimitée, sans filigrane, export SRT |
+| **Builder** | 1 000 000 SUBVOX + clé fournisseur | Poids 2x | Récompenses 2x, bonus sur les revenus de votre clé fournisseur |
+
+**Comment ça fonctionne :** Toutes les 24 heures, le pool des détenteurs est réparti proportionnellement. Si vous détenez 10 % de tous les SUBVOX pondérés, vous obtenez 10 % du pool de ce jour.
+
+---
+
+## Jeton SUBVOX et niveaux
+
+### Tarification
+
+Les coûts de traduction sont calculés en fonction de la durée de la vidéo. Les prix sont en SUBVOX, par langue.
+
+| Durée de la vidéo | Prix (SUBVOX) |
+|---------------|----------------|
+| < 2 min | **Gratuit** (niveau Découverte) |
+| 2-5 min | 500 |
+| 5-15 min | 1 500 |
+| 15-30 min | 3 000 |
+| 30-60 min | 6 000 |
+| 60-90 min | 10 000 |
+
+**Réduction multi-langue :** 20 % de réduction pour chaque langue supplémentaire.
+
+### Jeton
+
+| Propriété | Valeur |
+|----------|-------|
+| Nom du jeton | SUBVOX |
+| Réseau | Solana (devnet pour les tests, mainnet à déterminer) |
+| Adresse du jeton | À venir |
+| Décimales | 6 |
+
+### Répartition des revenus par traduction
+
+| Part | Qui la reçoit | Pour quoi |
+|-------|------------|----------|
+| **60 %** | Fournisseurs | Répartie proportionnellement entre les services utilisés : Groq (transcription), DeepSeek (traduction), OpenRouter (vision), cookies (accès aux plateformes) |
+| **10 %** | Plateforme | Hébergement, développement, opérations |
+| **20 %** | Pool des détenteurs | Distribué quotidiennement à tous les détenteurs de jetons SUBVOX |
+| **5 %** | Brûlé | Jetons définitivement retirés de la circulation |
+| **5 %** | Frais de fonctionnement | Coûts d'infrastructure, relais API, maintenance |
+
+La distribution se fait **automatiquement** toutes les 24 heures via une tâche cron. Aucune intervention manuelle.
+
+**Exemple :** Un travail utilisant Groq + DeepSeek répartit les 60 % équitablement (30 % + 30 %). Un travail utilisant les quatre services répartit proportionnellement (25 % + 25 % + 5 % + 5 %).
+
+### Comment obtenir des SUBVOX
+
+| Méthode | Description |
+|-------------|--------|
+| **Contribuer au code** | Soumettez une PR sur [subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline) |
+| **Partager une clé Groq** | Ajoutez votre clé au pool, gagnez une part du pool des fournisseurs (60 %) |
+| **Partager des cookies** | Débloquez des plateformes restreintes et gagnez des récompenses |
+| **Signaler des bugs** | Les rapports de bugs valides rapportent des jetons |
+| **Travail communautaire** | Traductions, documentation, design, modération |
+
+> **Important :** SUBVOX est un jeton utilitaire communautaire. Il n'a aucune valeur monétaire garantie. Ne payez jamais d'argent pour SUBVOX.
+
+---
+
+## Communauté
+
+Subvox est construit **pour la communauté, par la communauté**. Pas de capital-risque, pas d'agenda d'entreprise.
+
+### Comment participer
+
+| Activité | Où |
+|----------|-------|
+| **Signaler un bug** | [Problèmes subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline/issues) |
+| **Suggérer une fonctionnalité** | Même dépôt, étiquette `enhancement` |
+| **Soumettre du code** | Fork, branche, PR |
+| **Traduire le projet** | Aidez-nous à ajouter plus de langues |
+| **Partager une clé Groq** | Ajoutez au pool, gagnez 55 % par traduction |
+| **Partager des cookies** | Débloquez des plateformes, gagnez des récompenses |
+
+---
+
+## Langues prises en charge
+
+| # | Langue | README |
+|---|----------|--------|
+| 1 | Anglais | [README.md](/) |
+| 2 | Français | [README.fr.md](docs/readmes/README.fr.md) |
+| 3 | Espagnol | [README.es.md](docs/readmes/README.es.md) |
+| 4 | Portugais | [README.pt.md](docs/readmes/README.pt.md) |
+| 5 | Allemand | [README.de.md](docs/readmes/README.de.md) |
+| 6 | Italien | [README.it.md](docs/readmes/README.it.md) |
+| 7 | Néerlandais | [README.nl.md](docs/readmes/README.nl.md) |
+| 8 | Polonais | [README.pl.md](docs/readmes/README.pl.md) |
+| 9 | Russe | [README.ru.md](docs/readmes/README.ru.md) |
+| 10 | Ukrainien | [README.uk.md](docs/readmes/README.uk.md) |
+| 11 | Arabe | [README.ar.md](docs/readmes/README.ar.md) |
+| 12 | Hindi | [README.hi.md](docs/readmes/README.hi.md) |
+| 13 | Persan | [README.fa.md](docs/readmes/README.fa.md) |
+| 14 | Hébreu | [README.he.md](docs/readmes/README.he.md) |
+| 15 | Chinois (simplifié) | [README.zh.md](docs/readmes/README.zh.md) |
+| 16 | Japonais | [README.ja.md](docs/readmes/README.ja.md) |
+| 17 | Coréen | [README.ko.md](docs/readmes/README.ko.md) |
+| 18 | Turc | [README.tr.md](docs/readmes/README.tr.md) |
+| 19 | Vietnamien | [README.vi.md](docs/readmes/README.vi.md) |
+| 20 | Bahasa Indonesia | [README.id.md](docs/readmes/README.id.md) |
+
+---
+
+## Architecture
+
+Pour les développeurs qui souhaitent plonger dans le code :
+
+```
+Frontend (Next.js)  -->  API Pipeline (FastAPI)  -->  Worker Celery
+                                                         |
+                                                         |--> Téléchargement (yt-dlp)
+                                                         |--> Transcription (Groq Whisper)
+                                                         |--> Traduction (DeepSeek + LLaMA)
+                                                         |--> Incrustation sous-titres (FFmpeg)
+                                                         |--> Livraison
+```
+
+| Dépôt | Visibilité | Objectif |
+|-----------|-----------|---------|
+| [subvox](https://github.com/Nansoouu/subvox) | Public | **Ce dépôt** -- hub communautaire, documentation, pools |
+| [subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline) | Public | Moteur du pipeline (open-source) |
+
+---
+
+## ⭐ Soutenez le projet
+
+Si vous trouvez cela utile, **donnez une étoile au dépôt** ⭐. Cela prend un clic et cela aide vraiment — cela me dit que ce projet compte pour de vraies personnes, ce qui me motive à continuer à construire.
+
+---
+
+## Licence
+
+MIT -- voir [LICENSE](LICENSE).
+
+Construit avec amour par [Nansou](https://github.com/Nansoouu) et la communauté Subvox.

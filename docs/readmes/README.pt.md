@@ -74,7 +74,7 @@ A tradução de vídeos afeta **bilhões de pessoas**. Um tutorial coreano, uma 
 
 | Quem | O que recebem |
 |------|---------------|
-| **Usuários pesados** | Traduza vídeos ilimitados por uma fração dos preços dos concorrentes. Sem limites de tempo. 21 idiomas. |
+| **Usuários pesados** | Traduza vídeos ilimitados por uma fração dos preços dos concorrentes. Sem limites de tempo. 135+ idiomas. |
 | **Detentores de chave Groq** | Compartilhe chaves que você não está usando e ganhe uma parte do pool de 60% dos provedores. Renda passiva. |
 | **Detentores de tokens** | Faça stake de 500K+ SUBVOX e ganhe recompensas diárias do pool de 20% dos detentores. |
 | **Corretores de bugs e contribuidores** | Reporte bugs, escreva código, traduza idiomas. Ganhe SUBVOX que tem valor monetário real. |

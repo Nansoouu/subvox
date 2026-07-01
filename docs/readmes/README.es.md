@@ -109,7 +109,7 @@ La traducción de video afecta a **miles de millones de personas**. Un tutorial 
 
 | Quién | Qué obtienen |
 |-----|---------------|
-| **Usuarios intensivos** | Traduce videos ilimitados a una fracción de los precios de la competencia. Sin límites de tiempo. 21 idiomas. |
+| **Usuarios intensivos** | Traduce videos ilimitados a una fracción de los precios de la competencia. Sin límites de tiempo. 135+ idiomas. |
 | **Tenedores de clave Groq** | Comparte claves que no estés usando y gana una parte del pool de proveedores del 60%. Ingresos pasivos. |
 | **Tenedores de tokens** | Apuesta 500K+ SUBVOX y gana recompensas diarias del pool de tenedores del 20%. |
 | **Correccionistas de errores y contribuyentes** | Reporta errores, escribe código, traduce idiomas. Gana SUBVOX que tiene valor monetario real. |

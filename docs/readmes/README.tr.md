@@ -74,7 +74,7 @@ Video çevirisi **milyarlarca insanı** etkiliyor. Bir Kore eğitimi, bir Alman 
 
 | Kim | Ne alır |
 |-----|---------|
-| **Yoğun kullanıcılar** | Rakiplerin fiyatlarının çok altında sınırsız video çevirisi. Zaman sınırı yok. 21 dil. |
+| **Yoğun kullanıcılar** | Rakiplerin fiyatlarının çok altında sınırsız video çevirisi. Zaman sınırı yok. 135+ dil. |
 | **Groq anahtarı sahipleri** | Kullanmadığınız anahtarları paylaşın ve %60 sağlayıcı havuzundan pay kazanın. Pasif gelir. |
 | **Token sahipleri** | 500K+ SUBVOX stake edin ve %20 sahipler havuzundan günlük ödüller kazanın. |
 | **Hata düzelticiler ve katkıda bulunanlar** | Hataları bildirin, kod yazın, dilleri çevirin. Gerçek parasal değeri olan SUBVOX kazanın. |

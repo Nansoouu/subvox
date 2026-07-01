@@ -74,7 +74,7 @@ Dịch video ảnh hưởng đến **hàng tỷ người**. Một hướng dẫn
 
 | Ai | Họ nhận được gì |
 |-----|---------------|
-| **Người dùng nặng** | Dịch không giới hạn video với chi phí chỉ bằng một phần nhỏ so với đối thủ. Không giới hạn thời gian. 21 ngôn ngữ. |
+| **Người dùng nặng** | Dịch không giới hạn video với chi phí chỉ bằng một phần nhỏ so với đối thủ. Không giới hạn thời gian. 135+ ngôn ngữ. |
 | **Người có khóa Groq** | Chia sẻ các khóa bạn không sử dụng và kiếm một phần từ nhóm cung cấp 60%. Thu nhập thụ động. |
 | **Người nắm giữ token** | Staking 500K+ SUBVOX và kiếm phần thưởng hàng ngày từ nhóm người nắm giữ 20%. |
 | **Người sửa lỗi và đóng góp** | Báo cáo lỗi, viết mã, dịch ngôn ngữ. Kiếm SUBVOX có giá trị tiền tệ thực. |

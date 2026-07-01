@@ -109,7 +109,7 @@ La traduction vidéo concerne **des milliards de personnes**. Un tutoriel corée
 
 | Qui | Ce qu'ils obtiennent |
 |-----|----------------------|
-| **Utilisateurs intensifs** | Traduisez des vidéos illimitées à une fraction des prix des concurrents. Pas de limites de temps. 21 langues. |
+| **Utilisateurs intensifs** | Traduisez des vidéos illimitées à une fraction des prix des concurrents. Pas de limites de temps. 135+ langues. |
 | **Détenteurs de clés Groq** | Partagez les clés que vous n'utilisez pas et gagnez une part du pool de 60 % des fournisseurs. Revenu passif. |
 | **Détenteurs de jetons** | Staker 500K+ SUBVOX et gagnez des récompenses quotidiennes provenant du pool de 20 % des détenteurs. |
 | **Correcteurs de bugs et contributeurs** | Signalez des bugs, écrivez du code, traduisez des langues. Gagnez des SUBVOX qui ont une valeur monétaire réelle. |

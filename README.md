@@ -2,8 +2,8 @@
 
 # Subvox
 
-**The open-source video subtitle studio**
-*Translate any video into 21 languages, in minutes. 1800+ platforms supported.*
+**The open-source video subtitle studio**  
+*Translate any video into **135+ languages**, in minutes. **6 platforms** supported (YouTube, X/Twitter, TikTok, Instagram, Vimeo, Dailymotion).*
 
 [![Status](https://img.shields.io/badge/status-alpha-orange?style=flat-square)](/#)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
@@ -110,7 +110,7 @@ Video translation affects **billions of people**. A Korean tutorial, a German co
 
 | Who | What they get |
 |-----|---------------|
-| **Heavy users** | Translate unlimited videos at a fraction of competitor prices. No time limits. 21 languages. |
+| **Heavy users** | Translate unlimited videos at a fraction of competitor prices. No time limits. 135+ languages. |
 | **Groq key holders** | Share keys you are not using and earn a share of the 60% provider pool. Passive income. |
 | **Token holders** | Stake 500K+ SUBVOX and earn daily rewards from the 20% holders pool. |
 | **Bug fixers & contributors** | Report bugs, write code, translate languages. Earn SUBVOX that has real monetary value. |

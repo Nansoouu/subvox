@@ -74,7 +74,7 @@ Tłumaczenie wideo dotyczy **miliardów ludzi**. Koreański poradnik, niemiecka 
 
 | Kto | Co zyskuje |
 |-----|------------|
-| **Ciężcy użytkownicy** | Tłumacz nieograniczoną liczbę filmów za ułamek cen konkurencji. Bez limitów czasowych. 21 języków. |
+| **Ciężcy użytkownicy** | Tłumacz nieograniczoną liczbę filmów za ułamek cen konkurencji. Bez limitów czasowych. 135+ języków. |
 | **Posiadacze kluczy Groq** | Udostępnij klucze, których nie używasz i zarabiaj udział w 60% puli dostawców. Pasywny dochód. |
 | **Posiadacze tokenów** | Stakuj 500K+ SUBVOX i zarabiaj codzienne nagrody z 20% puli posiadaczy. |
 | **Poprawiacze błędów i współtwórcy** | Zgłaszaj błędy, pisz kod, tłumacz języki. Zarabiaj SUBVOX, który ma realną wartość pieniężną. |

@@ -15,7 +15,7 @@ Subvox rewards contributors with **SUBVOX** tokens.
 
 ### 1. Share your Groq key
 
-Add your Groq API key to the community pool and earn **75% of every translation** that uses your key.
+Add your Groq API key to the community pool and earn **55% of every translation** that uses your key.
 
 Each key has two parts:
 - **personal_ratio** (default 50%): reserved for your personal use
@@ -49,9 +49,10 @@ Every translation payment (in SUBVOX) is split automatically:
 
 | Share | Recipient | Detail |
 |-------|-----------|--------|
-| **75%** | Groq key provider | Goes to the wallet that provided the Groq key for this job |
-| **15%** | Platform fee | Operational costs, hosting, development |
-| **10%** | Holders pool | Distributed daily to all token holders |
+| **55%** | Groq key provider | Goes to the wallet that provided the Groq key for this job |
+| **20%** | Platform fee | Operational costs, hosting, development |
+| **20%** | Holders pool | Distributed daily to all token holders |
+| **5%** | Burned | Tokens permanently removed from circulation |
 
 ## Pricing
 

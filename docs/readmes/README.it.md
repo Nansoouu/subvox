@@ -42,7 +42,7 @@ La traduzione video riguarda **miliardi di persone**. Un tutorial coreano, una c
 | Chi | Cosa ottengono |
 |-----|----------------|
 | **Utenti pesanti** | Traduzione illimitata a basso costo. 21 lingue. |
-| **Proprietari di chiavi Groq** | Condividete chiavi non usate, guadagnate 75% per traduzione. |
+| **Proprietari di chiavi Groq** | Condividete chiavi non usate, guadagnate 55% per traduzione. |
 | **Detentori di token** | Tenete 500K+ SUBVOX, guadagnate ricompense giornaliere. |
 | **Contributori** | Segnalate bug, scrivete codice, traducete. Guadagnate SUBVOX. |
 | **Tutti** | Sistema trasparente e verificabile. Garantiamo che tutti vengono pagati. |

@@ -42,7 +42,7 @@ A traducao de video afeta **bilhoes de pessoas**. Um tutorial coreano, uma confe
 | Quem | O que ganham |
 |------|-------------|
 | **Usuarios pesados** | Traducao ilimitada a preco baixo. 21 idiomas. |
-| **Donos de chave Groq** | Compartilhem chaves nao usadas, ganhem 75% por traducao. |
+| **Donos de chave Groq** | Compartilhem chaves nao usadas, ganhem 55% por traducao. |
 | **Detentores de tokens** | Segurem 500K+ SUBVOX, ganhem recompensas diarias. |
 | **Contribuidores** | Reportem bugs, escrevam codigo, traduzam. Ganhem SUBVOX. |
 | **Todos** | Sistema transparente e auditavel. Garantimos que todos recebem pagamento. |

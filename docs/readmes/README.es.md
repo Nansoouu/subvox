@@ -42,7 +42,7 @@ La traduccion de video afecta a **miles de millones de personas**. Un tutorial c
 | Quien | Que obtienen |
 |-------|-------------|
 | **Usuarios intensivos** | Traduccion ilimitada a bajo precio. 21 idiomas. |
-| **Duenos de claves Groq** | Compartan claves no usadas, ganen 75% por traduccion. |
+| **Duenos de claves Groq** | Compartan claves no usadas, ganen 55% por traduccion. |
 | **Tenentes de tokens** | Tengan 500K+ SUBVOX, ganen recompensas diarias. |
 | **Contribuidores** | Reporten bugs, escriban codigo, traduzcan. Gane SUBVOX. |
 | **Todos** | Sistema transparente y auditable. Garantizamos que todos reciben pago. |

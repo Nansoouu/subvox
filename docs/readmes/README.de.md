@@ -42,7 +42,7 @@ Video-Ubersetzung betrifft **Milliarden von Menschen**. Ein koreanisches Tutoria
 | Wer | Was sie bekommen |
 |-----|-----------------|
 | **Vielnutzer** | Unbegrenzte Ubersetzung zu niedrigen Preisen. 21 Sprachen. |
-| **Groq-Schlussel-Besitzer** | Teilt ungenutzte Schlussel, verdient 75% pro Ubersetzung. |
+| **Groq-Schlussel-Besitzer** | Teilt ungenutzte Schlussel, verdient 55% pro Ubersetzung. |
 | **Token-Inhaber** | Haltet 500K+ SUBVOX, verdient tagliche Belohnungen. |
 | **Mitwirkende** | Meldet Bugs, schreibt Code, ubersetzt. Verdient SUBVOX. |
 | **Alle** | Transparentes und prufbares System. Wir garantieren, dass jeder bezahlt wird. |

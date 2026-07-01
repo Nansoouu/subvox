@@ -40,7 +40,7 @@ La traduction video concerne **des milliards de personnes**. Un tutoriel coreen,
 | Qui | Ce qu'ils obtiennent |
 |-----|---------------------|
 | **Gros utilisateurs** | Traduisez des videos illimitees a prix reduit. 21 langues. |
-| **Detenteurs de cle Groq** | Partagez vos cles inutilisees et gagnez 75% de chaque traduction. |
+| **Detenteurs de cle Groq** | Partagez vos cles inutilisees et gagnez 55% de chaque traduction. |
 | **Holders de tokens** | Stakez 500K+ SUBVOX et gagnez des rewards quotidiens. |
 | **Contributeurs** | Signalez des bugs, ecrivez du code, traduisez. Gagnez des SUBVOX. |
 | **Tout le monde** | Systeme transparent et verifiable. Nous certifions que chacun est paye. |
@@ -51,7 +51,7 @@ La traduction video concerne **des milliards de personnes**. Un tutoriel coreen,
 Telechargement via yt-dlp. Partagez vos cookies cryptes et gagnez des SUBVOX a chaque utilisation.
 
 ### 2. Transcribe
-Transcription via Groq Whisper. La **pool communautaire Groq** fournit des credits gratuits. Partagez votre cle et gagnez 75% du cout.
+Transcription via Groq Whisper. La **pool communautaire Groq** fournit des credits gratuits. Partagez votre cle et gagnez 55% du cout.
 
 ### 3. Translate
 Traduction des sous-titres via DeepSeek.
@@ -68,9 +68,10 @@ Chaque traduction genere des SUBVOX repartis automatiquement:
 
 | Part | Qui recoit |
 |------|-----------|
-| **75%** | Fournisseur de cle Groq |
-| **15%** | Plateforme (hebergement, dev, ops) |
-| **10%** | Pool des holders (distribue quotidiennement) |
+| **55%** | Fournisseur de cle Groq |
+| **20%** | Plateforme (hebergement, dev, ops) |
+| **20%** | Pool des holders (distribue quotidiennement) |
+| **5%** | Brule (retire de la circulation) |
 
 ## Tarifs SUBVOX
 
@@ -87,7 +88,7 @@ Chaque traduction genere des SUBVOX repartis automatiquement:
 
 ## Comment gagner
 
-**1. Partagez votre cle Groq** -- Gagnez 75% de chaque traduction qui utilise votre cle.
+**1. Partagez votre cle Groq** -- Gagnez 55% de chaque traduction qui utilise votre cle.
 
 **2. Partagez vos cookies** -- Debloquez les plateformes restreintes et gagnez des SUBVOX.
 
@@ -99,7 +100,7 @@ Chaque traduction genere des SUBVOX repartis automatiquement:
 |------|--------------|---------------|-----------|
 | **Decouverte** | 0 SUBVOX | Pas de rewards | Gratuit < 2 min, watermark, 3/jour |
 | **Passion** | 500,000 SUBVOX | 1x | Duree illimitee, sans watermark |
-| **Builder** | 1,000,000 SUBVOX + cle Groq | 2x | Rewards x2, +75% sur votre cle Groq |
+| **Builder** | 1,000,000 SUBVOX + cle Groq | 2x | Rewards x2, +55% sur votre cle Groq |
 
 ## Liens officiels
 

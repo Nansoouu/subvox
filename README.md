@@ -62,8 +62,8 @@ Video translation affects **billions of people**. A Korean tutorial, a German co
 | Who | What they get |
 |-----|---------------|
 | **Heavy users** | Translate unlimited videos at a fraction of competitor prices. No time limits. 21 languages. |
-| **Groq key holders** | Share keys you are not using and earn 55% of every translation that uses them. Passive income. |
-| **Token holders** | Stake 500K+ SUBVOX and earn daily rewards from 10% of all platform fees. |
+| **Groq key holders** | Share keys you are not using and earn a share of the 60% provider pool. Passive income. |
+| **Token holders** | Stake 500K+ SUBVOX and earn daily rewards from the 20% holders pool. |
 | **Bug fixers & contributors** | Report bugs, write code, translate languages. Earn SUBVOX that has real monetary value. |
 | **Everyone** | Transparent, auditable, on-chain. We certify that everyone gets paid and the system works. |
 
@@ -85,7 +85,7 @@ Your video URL is downloaded via yt-dlp. Community members can share encrypted c
 ### 2. Transcribe
 Speech is transcribed to text via Groq Whisper. The **community Groq pool** provides free transcription credits.
 
-**You earn:** Share your Groq API key with the pool. 55% of the translation cost goes to the key provider.
+**You earn:** Share your Groq API key with the pool. The provider share (60% of the translation cost, split across all services used) goes to the key providers.
 
 ### 3. Translate
 Subtitles are translated into the target language via DeepSeek (with local LLaMA fallback planned).
@@ -134,7 +134,7 @@ Subvox is designed so that **anyone can earn** by contributing to the ecosystem.
 
 ### 1. Share your Groq key
 
-Add your Groq API key to the community pool and earn **55% of every translation** that uses your key.
+Add your Groq API key to the community pool and earn a share of the **60% provider pool** every time your key is used for transcription.
 
 | Your key's capacity | What you earn |
 |--------------------|---------------|
@@ -152,13 +152,13 @@ Some platforms (YouTube, etc.) require authentication cookies to download videos
 
 ### 3. Hold SUBVOX tokens
 
-Hold SUBVOX tokens to earn a share of the **10% holders pool**, distributed daily.
+Hold SUBVOX tokens to earn a share of the **20% holders pool**, distributed daily.
 
 | Tier | Minimum balance | Reward weight | Benefits |
 |------|----------------|---------------|----------|
 | **Decouverte** | 0 SUBVOX | No rewards | Free for videos < 2 min, watermark, 3/day |
 | **Passion** | 500,000 SUBVOX | 1x weight | Unlimited duration, no watermark, SRT export |
-| **Builder** | 1,000,000 SUBVOX + Groq key | 2x weight | 2x rewards, +55% revenue on your Groq key |
+| **Builder** | 1,000,000 SUBVOX + provider key | 2x weight | 2x rewards, bonus on your provider key revenue |
 
 **How it works:** Every 24 hours, the holders pool is split proportionally. If you hold 10% of all weighted SUBVOX, you get 10% of that day's pool.
 
@@ -194,19 +194,22 @@ Translation costs are calculated by video duration. Prices are in SUBVOX, per la
 
 | Share | Who gets it | What for |
 |-------|------------|----------|
-| **55%** | Groq key provider | The person who shared their Groq key for this translation |
-| **20%** | Platform | Hosting, development, operations |
+| **60%** | Providers | Split proportionally across services used: Groq (transcription), DeepSeek (translation), OpenRouter (vision), cookies (platform access) |
+| **10%** | Platform | Hosting, development, operations |
 | **20%** | Holders pool | Distributed daily to all SUBVOX token holders |
 | **5%** | Burned | Tokens permanently removed from circulation |
+| **5%** | Operating fees | Infrastructure costs, API relay, maintenance |
 
 The distribution happens **automatically** every 24 hours via a cron job. No manual intervention.
+
+**Example:** A job using Groq + DeepSeek splits the 60% equally (30% + 30%). A job using all four services splits proportionally (25% + 25% + 5% + 5%).
 
 ### How to get SUBVOX
 
 | Method | Description |
 |--------|-------------|
 | **Contribute code** | Submit a PR to [subvox-pipeline](https://github.com/Nansoouu/subvox-pipeline) |
-| **Share a Groq key** | Add your key to the pool, earn 55% per translation |
+| **Share a Groq key** | Add your key to the pool, earn a share of the 60% provider pool |
 | **Share cookies** | Unlock restricted platforms and earn rewards |
 | **Report bugs** | Valid bug reports earn tokens |
 | **Community work** | Translations, docs, design, moderation |
